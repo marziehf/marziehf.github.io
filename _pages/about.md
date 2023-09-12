@@ -2,25 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <strong>Senior Research Scientist</strong> @ <a href='https://cohere.for.ai/'>Cohere For AI</a>  #  •  Understands Language  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_moi.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+# TO ADD:::: Our team is focused on solving challenging problems at the intersection of AI x Biotech, building a fully-integrated AI platform for drug discovery. If this resonates with you, we are actively hiring (full-time + internships)!
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a scientist, I’m broadly interested in all aspects of natural language understanding, and particularly in multilingual learning, data-conscious learning, robust and scalable models, compositionality, and interpretability.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously I was the NLP/ML research lead at [Zeta Alpha Vector](https://www.zeta-alpha.com/) working on smarter ways to discover and organize knowledge in AI. 
+I did my PhD at the [Language Technology Lab](https://ltl.science.uva.nl/) (originally part of the [ILPS group](https://irlab.science.uva.nl/)), University of Amsterdam, working on developing models to understand and utilize interesting phenomena in the data. 
+During my PhD I was advised by [Christof Monz](https://staff.fnwi.uva.nl/c.monz/index.html) and [Arianna Bisazza](http://www.cs.rug.nl/~bisazza/index.html). I received my B.Sc. from [Sharif University](http://www.en.sharif.edu/) majoring in Computer Engineering and M.Sc. from [University of Tehran](https://ut.ac.ir/en) majoring in Artificial Intelligence.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

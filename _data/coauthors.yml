@@ -1,34 +1,44 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Nogueira":   
+  - firstname: ["Rodrigo", "R."]
+    url: https://sites.google.com/site/rodrigofrassettonogueira/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Monz":
+  - firstname: ["Christof", "C."]
+    url: https://staff.science.uva.nl/c.monz/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bisazza":
+  - firstname: ["Arianna", "A."]
+    url: http://www.cs.rug.nl/~bisazza/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ghader":
+  - firstname: ["Hamid", "Hamidreza", "H.", "H. R."]
+    url: https://hamidreza-ghader.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Faili":
+  - firstname: ["Heshaam", "H."]
+    url: https://ece.ut.ac.ir/en/~hfaili
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Shakery":
+  - firstname: ["Azadeh", "A."]
+    url: https://ece.ut.ac.ir/en/~shakery
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Hooker":
+  - firstname: ["Sara", "S."]
+    url: https://www.sarahooker.me/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Wang":
+  - firstname: ["Alex", "A."]
+    url: https://w4ngatang.github.io/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Pozzobon":
+  - firstname: ["Luiza", "L."]
+    url: https://luizapozzobon.github.io/
+
+"Üstün":
+  - firstname: ["Ahmet", "A."]
+    url: https://ahmetustun.github.io/
+
+
+"Marion":
+  - firstname: ["Max", "M."]
+    url: https://maxisawesome.github.io/
