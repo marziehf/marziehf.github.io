@@ -20,11 +20,20 @@ nav_order: 3
 <section>
 <h3>Supervision</h3>
 <ul style="list-style-type:circle">
-<li style="padding-bottom: 16px;"><em>2023 </em> &ndash; Meriem Boubdir. Research Scholar at C4AI. <em>Evaluation of LLMs.</em></li>
+<li style="padding-bottom: 16px;"><em>2023 </em> &ndash; Meriem Boubdir. Research Scholar at C4AI. <em>Evaluation of large language models.</em></li>
 <li style="padding-bottom: 16px;"><em>2023 </em> &ndash; Max Marion. Research Scholar at C4AI. <em>Data pruning at scale.</em></li>
 <li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; Sergi Castella Sapé. MSc AI University of Amsterdam. <em>Semantic Representations in  Language Models.</em> </li>
 <li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; Ioannis Tsiamas. MSc AI University of Amsterdam. <em>Text summarization.</em> </li>
 <li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; Ragger Jonkers. MSc AI University of Amsterdam. <em>Extracting semantic patterns from scientific papers.</em> </li>
+</ul>
+</section>
+
+<section>
+<h3>Program Committee</h3>
+<ul style="list-style-type:circle">
+<li style="padding-bottom: 16px;">ICLR, ICML, NeurIPS, AAAI, IEEE TAI</li>
+<li style="padding-bottom: 16px;">ACL, EMNLP, ACL rolling review, NAACL, EACL, ACL-IJCNLP</li>
+<li style="padding-bottom: 16px;">WMT, ECNLP, TDS, IKT, SustaiNLP, ASOC, NLP-OSS</li>
 </ul>
 </section>
 
