@@ -13,14 +13,15 @@ nav_order: 2
 <h3>Upcoming Talks</h3>
 <ul style="list-style-type:circle">
 
-<li style="padding-bottom: 16px;"> Invited talk at <b>Toronto Data Workshop</b> on  <i>"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"</i>. 2023. </li>
+<li style="padding-bottom: 16px;"> Invited talk at <b>Toronto Data Workshop</b> on  <i>"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"</i>. 20 October 2023. </li>
 
+<li style="padding-bottom: 16px;"> Invited talk at <b>ELLIS Symposium on Large Language and Foundation Models</b>. 17-18 October 2023. <a href="https://sites.google.com/view/ellisfms2023/">link</a>. </li>
 
-<li style="padding-bottom: 16px;"> Invited talk at <b>Schwartz Reisman Institute Seminar Series</b>. 2023. <a href="https://www.eventbrite.ca/o/schwartz-reisman-institute-32793521941">link</a>. </li>
+<li style="padding-bottom: 16px;"> Invited talk at <b>Schwartz Reisman Institute Seminar Series</b>. 11 October 2023. <a href="https://www.eventbrite.ca/o/schwartz-reisman-institute-32793521941">link</a>. </li>
 
-<li style="padding-bottom: 16px;"> Invited talk at <b>ELLIS Symposium on Large Language and Foundation Models</b>. 2023. <a href="https://sites.google.com/view/ellisfms2023/">link</a>. </li>
+<li style="padding-bottom: 16px;"> Invited guest on <b>The Turing Way's QA Panel</b>. 5 October 2023. </li>
 
-<li style="padding-bottom: 16px;"> Panelist on <b>The Turing Way's Fireside Chat</b> on <i>"Who is building open source AI?"</i> 2023. <a href="https://www.eventbrite.co.uk/e/who-is-building-open-source-ai-tickets-709277416847">link</a>. </li>
+<li style="padding-bottom: 16px;"> Panelist on <b>The Turing Way's Fireside Chat</b> on <i>"Who is building open source AI?"</i> 21 September 2023. <a href="https://www.eventbrite.co.uk/e/who-is-building-open-source-ai-tickets-709277416847">link</a>. </li>
 
 </ul>
 </section>

@@ -20,11 +20,11 @@ nav_order: 3
 <section>
 <h3>Supervision</h3>
 <ul style="list-style-type:circle">
-<li style="padding-bottom: 16px;"><em>2023 </em> &ndash; Meriem Boubdir. Research Scholar at C4AI. <em>Evaluation of large language models.</em></li>
-<li style="padding-bottom: 16px;"><em>2023 </em> &ndash; Max Marion. Research Scholar at C4AI. <em>Data pruning at scale.</em></li>
-<li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; Sergi Castella Sapé. MSc AI University of Amsterdam. <em>Semantic Representations in  Language Models.</em> </li>
-<li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; Ioannis Tsiamas. MSc AI University of Amsterdam. <em>Text summarization.</em> </li>
-<li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; Ragger Jonkers. MSc AI University of Amsterdam. <em>Extracting semantic patterns from scientific papers.</em> </li>
+<li style="padding-bottom: 16px;"><em>2023 </em> &ndash; <b>Meriem Boubdir</b>. Research Scholar at C4AI. <em>Evaluation of large language models.</em></li>
+<li style="padding-bottom: 16px;"><em>2023 </em> &ndash; <b>Max Marion</b>. Research Scholar at C4AI. <em>Data pruning at scale.</em></li>
+<li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; <b>Sergi Castella Sapé</b>. MSc AI University of Amsterdam. <em>Semantic Representations in  Language Models.</em> </li>
+<li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; <b>Ioannis Tsiamas</b>. MSc AI University of Amsterdam. <em>Text summarization.</em> </li>
+<li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; <b>Ragger Jonkers</b>. MSc AI University of Amsterdam. <em>Extracting semantic patterns from scientific papers.</em> </li>
 </ul>
 </section>
 
