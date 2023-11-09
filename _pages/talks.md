@@ -29,6 +29,8 @@ nav_order: 2
 
 <li style="padding-bottom: 16px;"> Invited talk at <b>Schwartz Reisman Institute Seminar Series</b> on <i>"Mastering language understanding with AI: How multilingualism shapes LLMs"</i> 2023. <a href="https://www.youtube.com/watch?v=qTR2J7sNXK8">video link</a>. </li>
 
+<li style="padding-bottom: 16px;"> Invited talk at <b>Women in AI Summit</b> as a nominee in Top 5 AI researcher category. 2023. <a href="https://womeninai.nl/2023/11/08/wai-summit-top-5-award-nominees/">link</a>. </li>
+
 <li style="padding-bottom: 16px;"> Panelist on <b>The Turing Way's Fireside Chat</b> on <i>"Who is building open source AI?"</i>. 2023. <a href="https://www.youtube.com/watch?v=e8EBI1ocxt4">video link</a>. </li>
 
 <li style="padding-bottom: 16px;"> Talk as part of the <b>ACL Mentorship</b> program on <i>"When life happens: How to navigate challenging times in research?"</i>. 2023. <a href="https://www.youtube.com/watch?v=g59P3YiqRxU">video link</a>. </li>
