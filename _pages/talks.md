@@ -13,7 +13,10 @@ nav_order: 2
 <h3>Upcoming Talks</h3>
 <ul style="list-style-type:circle">
 
-<li style="padding-bottom: 16px;"> Guest lecture at <b>leiden university</b>. 2023. </li>
+<li style="padding-bottom: 16px;"> Tutorial at <b>AAAI</b> on <i>"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"</i>. Febreury 2023. <a href="https://aaai.org/aaai-conference/aaai-24-tutorial-and-lab-list/#tq11">link</a>. </li>
+
+<li style="padding-bottom: 16px;"> Keynote talk at <b>SlaterCon</b> on <i>"Aya: A massively multilingual dataset and language model"</i>. March 2024. <a href="https://slator.com/event/slatorcon-remote-march-2024/">link</a>. </li>
+
 
 </ul>
 </section>
@@ -22,6 +25,9 @@ nav_order: 2
 <section>
 <h3>Previous Talks</h3>
 <ul style="list-style-type:circle">
+
+
+<li style="padding-bottom: 16px;"> Guest lecture at <b>leiden university</b>. November 2023. </li>
 
 <li style="padding-bottom: 16px;"> Invited talk at <b>Toronto Data Workshop</b> on <i>"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"</i>. 2023. <a href="https://www.youtube.com/watch?v=kVOKtJ8ZTgI">video link</a>. </li>
 
