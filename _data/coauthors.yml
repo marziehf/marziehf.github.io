@@ -57,3 +57,22 @@
 "Ermiş":
   - firstname: ["Beyza", "B."]
     url: https://twitter.com/beyzaermis
+
+
+"Ruder":
+  - firstname: ["Sebastian", "S."]
+    url: https://www.ruder.io/
+
+"Kreutzer":
+  - firstname: ["Julia", "J."]
+    url: https://juliakreutzer.github.io/
+
+
+"Blunsom":
+  - firstname: ["Phil", "P."]
+    url: https://scholar.google.com/citations?user=eJwbbXEAAAAJ&hl=en
+
+
+"Marchisio":
+  - firstname: ["Kelly", "K."]
+    url: https://kellymarchisio.github.io/

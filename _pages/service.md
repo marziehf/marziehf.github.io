@@ -20,6 +20,9 @@ nav_order: 3
 <section>
 <h3>Supervision</h3>
 <ul style="list-style-type:circle">
+<li style="padding-bottom: 16px;"><em>2024 </em> &ndash; <b>Aakanksha</b>. Research Scholar at C4AI. <em>LLM safety in multilingual setting.</em></li>
+<li style="padding-bottom: 16px;"><em>2024 </em> &ndash; <b>Luísa Balleroni Shimabucoro</b>. Research Scholar at C4AI. <em>Circularity in LLMs</em></li>
+
 <li style="padding-bottom: 16px;"><em>2023 </em> &ndash; <b>Meriem Boubdir</b>. Research Scholar at C4AI. <em>Evaluation of large language models.</em></li>
 <li style="padding-bottom: 16px;"><em>2023 </em> &ndash; <b>Max Marion</b>. Research Scholar at C4AI. <em>Data pruning at scale.</em></li>
 <li style="padding-bottom: 16px;"><em>2019-2020 </em> &ndash; <b>Sergi Castella Sapé</b>. MSc AI University of Amsterdam. <em>Semantic Representations in  Language Models.</em> </li>

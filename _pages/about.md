@@ -19,6 +19,7 @@ social: true  # includes social icons at the bottom of the page
 # Our team is focused on solving challenging problems at the intersection of AI x Biotech, building a fully-integrated AI platform for drug discovery. If this resonates with you, we are actively hiring (full-time + internships)!
 ---
 
+I'm a senior research scientist at [Cohere for AI](https://cohere.com/research), the non-profit research lab of [Cohere](https://cohere.com/), working with [Sara Hooker](https://www.sarahooker.me/) on complex problems and fundamental research.
 As a scientist, I’m broadly interested in all aspects of natural language understanding, and particularly in multilingual learning, data-conscious learning, robust and scalable models, compositionality, and interpretability.
 
 Previously I was the NLP/ML research lead at [Zeta Alpha Vector](https://www.zeta-alpha.com/) working on smarter ways to discover and organize knowledge. 
