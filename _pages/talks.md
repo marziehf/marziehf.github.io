@@ -13,6 +13,9 @@ nav_order: 2
 <h3>Upcoming Talks</h3>
 <ul style="list-style-type:circle">
 
+
+<li style="padding-bottom: 16px;"> Talk at <b>UKP-CIS Joint Invited Talk Series</b>. October 2024. </li>
+
 <li style="padding-bottom: 16px;"> Keynote talk at <b>PyData Amsterdam</b> on <i>"The Art of Language: Mastering Multilingual Challenges in LLMs"</i>. September 2024. <a href="https://amsterdam.pydata.org/program/">link</a>. </li>
 
 <li style="padding-bottom: 16px;">Talk at <b>United Nations Development Programme</b> on <i>"AI and digitizing low-resource languages"</i>. August 2024. <a href="https://x.com/UNDP">link</a>. </li>
