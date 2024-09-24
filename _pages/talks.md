@@ -21,12 +21,6 @@ nav_order: 2
 
 <li style="padding-bottom: 16px;"> Talk at <b>Understanding Deep Learning Lecture Series</b> on <i>LLMs should speak many languages.</i> October 2024. </li>
 
-<li style="padding-bottom: 16px;"> Keynote talk at <b>PyData Amsterdam</b> on <i>"The Art of Language: Mastering Multilingual Challenges in LLMs"</i>. September 2024. <a href="https://amsterdam.pydata.org/program/">link</a>. </li>
-
-<li style="padding-bottom: 16px;">Talk at <b>United Nations Development Programme</b> on <i>"AI and digitizing low-resource languages"</i>. August 2024. <a href="https://x.com/UNDP">link</a>. </li>
-
-
-
 </ul>
 </section>
 
@@ -34,6 +28,10 @@ nav_order: 2
 <section>
 <h3>Previous Talks</h3>
 <ul style="list-style-type:circle">
+
+<li style="padding-bottom: 16px;"> Keynote talk at <b>PyData Amsterdam</b> on <i>"The Art of Language: Mastering Multilingual Challenges in LLMs"</i>. September 2024. <a href="https://amsterdam.pydata.org/program/">link</a>. </li>
+
+<li style="padding-bottom: 16px;">Talk at <b>United Nations Development Programme</b> on <i>"AI and digitizing low-resource languages"</i>. August 2024. <a href="https://x.com/UNDP">link</a>. </li>
 
 <li style="padding-bottom: 16px;"> Interview with <b>Max Welling</b> on <i>"C4AI Fireside Chat series"</i>. July 2024. <a href="https://www.youtube.com/watch?v=4I09wBeP-GI&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk">video link</a>. </li>
 
