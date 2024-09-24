@@ -13,6 +13,8 @@ nav_order: 2
 <h3>Upcoming Talks</h3>
 <ul style="list-style-type:circle">
 
+<li style="padding-bottom: 16px;"> Panelist at <b>Nordic Data Science & ML Summit,</b>. October 2024. </li>
+
 <li style="padding-bottom: 16px;"> Talk at <b>Sharif University LLM Journal Club</b>. October 2024. </li>
 
 <li style="padding-bottom: 16px;"> Talk at <b>UKP-CIS Joint Invited Talk Series</b>. October 2024. </li>
