@@ -13,13 +13,15 @@ nav_order: 2
 <h3>Upcoming Talks</h3>
 <ul style="list-style-type:circle">
 
-<li style="padding-bottom: 16px;"> Panelist at <b>Nordic Data Science & ML Summit,</b>. October 2024. </li>
+<li style="padding-bottom: 16px;"> Panelist at <b>Nordic Data Science & ML Summit</b> on <i>"Building the Future of AI: Scaling Foundation Models and Agents for Real-World Applications"</i>. October 2024. </li>
 
-<li style="padding-bottom: 16px;"> Talk at <b>Sharif University LLM Journal Club</b>. October 2024. </li>
+<li style="padding-bottom: 16px;"> Talk at <b>Understanding Deep Learning Lecture Series</b> on <i>"Multilingual language models: Benefits and Barriers".</i> October 2024. </li>
 
-<li style="padding-bottom: 16px;"> Talk at <b>UKP-CIS Joint Invited Talk Series</b>. October 2024. </li>
+<li style="padding-bottom: 16px;"> Talk at <b>UKP-CIS Joint Invited Talk Series</b> on <i>"Building the Next Generation of Multilingual Models".</i> October 2024. </li>
 
-<li style="padding-bottom: 16px;"> Talk at <b>Understanding Deep Learning Lecture Series</b> on <i>LLMs should speak many languages.</i> October 2024. </li>
+
+<li style="padding-bottom: 16px;"> Talk at <b>Sharif University LLM Journal Club</b> on <i>"مدل های زبانی چند زبانه: چرا و چگونه"</i>. October 2024. </li>
+
 
 </ul>
 </section>
