@@ -11,6 +11,7 @@ nav_order: 3
 <section>
 <h3>Mentorship</h3>
 <ul style="list-style-type:circle">
+<li style="padding-bottom: 16px;">Deep Learning Indaba Mentorship Programme</li>
 <li style="padding-bottom: 16px;">ACL year-round mentorship program</li>
 <li style="padding-bottom: 16px;">Iranian women in computing peer mentorship</li>
 <li style="padding-bottom: 16px;">Women in AI Netherlands mentorship program</li>
