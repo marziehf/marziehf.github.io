@@ -29,7 +29,7 @@ nav_order: 2
 <h3>Previous Talks</h3>
 <ul style="list-style-type:circle">
 
-<li style="padding-bottom: 16px;"> Talk at <b>OnDeck ML Research, NeurIPS</b> on <i>Charting the Future of Multilingual Models.</i> December 2024. </li>
+<li style="padding-bottom: 16px;"> Talk at <b>OnDeck ML Research, NeurIPS</b> on <i>"Charting the Future of Multilingual Models".</i> December 2024. </li>
 
 <li style="padding-bottom: 16px;"> Talk at <b>Local Language Partnerships Accelerator Pilot, UNDP</b>. November 2024. </li>
 
