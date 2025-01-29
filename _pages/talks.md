@@ -14,10 +14,11 @@ nav_order: 2
 <ul style="list-style-type:circle">
 
 
-<li style="padding-bottom: 16px;"> Talk at <b>Local Language Partnerships Accelerator Pilot, UNDP</b>. November 2024. </li>
+<li style="padding-bottom: 16px;"> Talk at <b>Open institute of technology</b>. March 2025. </li>
 
-<li style="padding-bottom: 16px;"> Talk at <b>University of Tehran</b> on <i>"ساخت نسل بعدی مدل‌های چندزبانه"</i>. November 2024. </li>
+<li style="padding-bottom: 16px;"> Speaker at <b>Advanced Language Processing School (ALPS)</b>. April 2025. <a href="https://lig-alps.imag.fr/index.php/speakers/">link</a>.</li>
 
+<li style="padding-bottom: 16px;"> Panelist at <b>DALI Sorrento</b>. April 2025. <a href="https://dalimeeting.org/sorrento2025/">link</a>.</li>
 
 
 </ul>
@@ -27,6 +28,12 @@ nav_order: 2
 <section>
 <h3>Previous Talks</h3>
 <ul style="list-style-type:circle">
+
+<li style="padding-bottom: 16px;"> Talk at <b>OnDeck ML Research, NeurIPS</b> on <i>Charting the Future of Multilingual Models.</i> December 2024. </li>
+
+<li style="padding-bottom: 16px;"> Talk at <b>Local Language Partnerships Accelerator Pilot, UNDP</b>. November 2024. </li>
+
+<li style="padding-bottom: 16px;"> Talk at <b>University of Tehran</b> on <i>"ساخت نسل بعدی مدل‌های چندزبانه"</i>. November 2024. </li>
 
 <li style="padding-bottom: 16px;"> Panelist at <b>Kaggle AMA</b>. October 2024. </li>
 
