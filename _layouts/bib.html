@@ -176,6 +176,13 @@
             <a href="{{ entry.data | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Data</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.model %}
+            {% if entry.model contains '://' -%}
+            <a href="{{ entry.model }}" class="btn btn-sm z-depth-0" role="button">Model</a>
+            {%- else -%}
+            <a href="{{ entry.model | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Model</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}

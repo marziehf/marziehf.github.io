@@ -8,7 +8,8 @@
       url={https://arxiv.org/abs/2505.08751}, 
 	  abbr={ArXiv},
 	  bibtex_show={true},
-	  data={https://huggingface.co/collections/CohereLabs/cohere-labs-aya-vision-67c4ccd395ca064308ee1484}
+	  data={https://huggingface.co/collections/CohereLabs/cohere-labs-aya-vision-67c4ccd395ca064308ee1484},
+	  model={https://huggingface.co/CohereLabs/aya-vision-32b}
 }
 
 @misc{singh2025leaderboardillusion,
@@ -20,6 +21,7 @@
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2504.20879}, 
 	  abbr={ArXiv},
+	  selected     = {true},
 	  bibtex_show={true},
 	  website={https://cohere.com/research/lmarena}
 }
@@ -57,6 +59,7 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2504.07072}, 
 	  abbr={ArXiv},
+	  selected     = {true},
 	  bibtex_show={true},
 	  data={https://huggingface.co/datasets/CohereLabs/kaleidoscope}
 }
@@ -71,6 +74,7 @@
       url={https://arxiv.org/abs/2504.00698}, 
 	  abbr={ArXiv},
 	  bibtex_show={true},
+	  model={https://huggingface.co/CohereLabs/c4ai-command-a-03-2025}
 }
 
 @misc{rakotonirina2025toolsteammatesevaluatingllms,
@@ -109,6 +113,7 @@
       url={https://arxiv.org/abs/2412.04261}, 
 	  abbr={ArXiv},
 	  bibtex_show={true},
+	  model={https://huggingface.co/CohereLabs/aya-expanse-32b},
 	  supp={https://huggingface.co/collections/CohereLabs/cohere-labs-aya-expanse-671a83d6b2c07c692beab3c3}
 }
 
@@ -135,7 +140,9 @@
       url={https://arxiv.org/abs/2411.19799}, 
 	  abbr={ICLR},
 	  bibtex_show={true},
-	  data={https://huggingface.co/datasets/CohereLabs/include-base-44}
+	  selected     = {true},
+	  data={https://huggingface.co/datasets/CohereLabs/include-base-44},
+	  poster={romanou_iclr_2025_poster.pdf}
 }
 
 @misc{gureja2024mrewardbenchevaluatingrewardmodels,
@@ -173,6 +180,7 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2409.11378}, 
 	  abbr={ArXiv},
+	  selected     = {true},
 	  bibtex_show={true},
 	  code={https://github.com/Cohere-Labs-Community/iterative-data-selection}
 }
@@ -186,6 +194,7 @@
       url={https://arxiv.org/abs/2408.10914}, 
 	  abbr={ICLR},
 	  bibtex_show={true},
+	  poster={ICLR 2025 - Poster Landscape - Code in pretraining.png}
 }
 
 @misc{shimabucoro2024llmseellmdo,
@@ -220,10 +229,9 @@
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2405.15032}, 
-	  selected={true},
 	  abbr={ArXiv},
 	  bibtex_show={true},
-	  supp={https://huggingface.co/CohereLabs/aya-23-35B}
+	  model={https://huggingface.co/CohereLabs/aya-23-35B}
 }
 
 @misc{ahmadian2024basics,
@@ -233,7 +241,6 @@
       eprint={2402.14740},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-	  selected={true},
 	  url={https://arxiv.org/abs/2402.14740},
 	  abbr={ACL},
 	  bibtex_show={true},
@@ -245,12 +252,11 @@
       eprint={2402.07827},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-	  selected={true},
 	  url={https://arxiv.org/abs/2402.07827},
 	  abbr={ACL},
 	  bibtex_show={true},
 	  award={Best paper award},
-	  supp={https://huggingface.co/CohereLabs/aya-101}
+	  model={https://huggingface.co/CohereLabs/aya-101}
 
 }
 @misc{singh2024aya,
@@ -260,10 +266,10 @@
       eprint={2402.06619},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-	  selected={true},
 	  url={https://arxiv.org/abs/2402.06619},
 	  abbr={ACL},
 	  bibtex_show={true},
+	  data={https://huggingface.co/datasets/CohereLabs/aya_dataset}
 }
 @misc{boubdir2023elo,
       title={Elo Uncovered: Robustness and Best Practices in Language Model Evaluation}, 
@@ -275,6 +281,8 @@
 	  url={https://arxiv.org/abs/2311.17295},
 	  abbr={Neurips},
 	  bibtex_show={true},
+	  selected     = {true},
+	  poster={elo_neurips24_poster.pdf},
 }
 @misc{boubdir2023prompts,
       title={Which Prompts Make The Difference? Data Prioritization For Efficient Human LLM Evaluation}, 
@@ -283,7 +291,6 @@
       eprint={2310.14424},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-	  selected={true},
 	  url={https://arxiv.org/abs/2310.14424},
 	  abbr={ArXiv},
 	  bibtex_show={true},
@@ -342,7 +349,6 @@
 	primaryclass = {cs.CL},
 	abstract     = {The information retrieval community has recently witnessed a revolution due to large pretrained transformer models. Another key ingredient for this revolution was the MS MARCO dataset, whose scale and diversity has enabled zero-shot transfer learning to various tasks. However, not all IR tasks and domains can benefit from one single dataset equally. Extensive research in various NLP tasks has shown that using domain-specific training data, as opposed to a general-purpose one, improves the performance of neural models. In this work, we harness the few-shot capabilities of large pretrained language models as synthetic data generators for IR tasks. We show that models finetuned solely on our unsupervised dataset outperform strong baselines such as BM25 as well as recently proposed self-supervised dense retrieval methods. Furthermore, retrievers finetuned on both supervised and our synthetic data achieve better zero-shot transfer than models finetuned only on supervised data. Code, models, and data are available at https://github.com/zetaalphavector/inpars},
 	url          = {https://arxiv.org/pdf/2202.05144},
-	selected     = {true},
 	bibtex_show={true},
 }
 @inproceedings{https://doi.org/10.48550/arxiv.2206.02873,
@@ -356,7 +362,6 @@
 	keywords     = {Information Retrieval (cs.IR), Computation and Language (cs.CL), Performance (cs.PF), FOS: Computer and information sciences, FOS: Computer and information sciences},
 	abstract     = {Recent work has shown that small distilled language models are strong competitors to models that are orders of magnitude larger and slower in a wide range of information retrieval tasks. This has made distilled and dense models, due to latency constraints, the go-to choice for deployment in real-world retrieval applications. In this work, we question this practice by showing that the number of parameters and early query-document interaction play a significant role in the generalization ability of retrieval models. Our experiments show that increasing model size results in marginal gains on in-domain test sets, but much larger gains in new domains never seen during fine-tuning. Furthermore, we show that rerankers largely outperform dense ones of similar size in several tasks. Our largest reranker reaches the state of the art in 12 of the 18 datasets of the Benchmark-IR (BEIR) and surpasses the previous state of the art by 3 average points. Finally, we confirm that in-domain effectiveness is not a good indicator of zero-shot effectiveness. Code is available at this https URL},
 	url          = {https://arxiv.org/abs/2206.02873},
-	selected     = {true},
 	abbr={ArXiv},
 	bibtex_show={true},
 }
@@ -373,7 +378,6 @@
 	abstract     = {The MS MARCO ranking dataset has been widely used for training deep learning models for IR tasks, achieving considerable effectiveness on diverse zero-shot scenarios. However, this type of resource is scarce in languages other than English. In this work, we present mMARCO, a multilingual version of the MS MARCO passage ranking dataset comprising 13 languages that was created using machine translation. We evaluated mMARCO by fine-tuning monolingual and multilingual re-ranking models, as well as a dense multilingual model on this dataset. Experimental results demonstrate that multilingual models fine-tuned on our translated dataset achieve superior effectiveness to models fine-tuned on the original English version alone. Our distilled multilingual re-ranker is competitive with non-distilled models while having 5.4 times fewer parameters. Lastly, we show a positive correlation between translation quality and retrieval effectiveness, providing evidence that improvements in translation methods might lead to improvements in multilingual information retrieval. The translated datasets and fine-tuned models are available at link.},
 	bib          = {https://dblp.org/rec/journals/corr/abs-2108-13897.bib},
 	url          = {https://arxiv.org/pdf/2108.13897},
-	selected     = {true},
 	abbr={ArXiv},
 	bibtex_show={true},
 	data={https://huggingface.co/datasets/unicamp-dl/mmarco}
@@ -386,7 +390,6 @@
 	publisher    = {University of Amsterdam},
 	isbn         = 9789464210590,
 	url          = {https://marziehf.github.io/assets/pdf/Thesis.pdf},
-	selected     = {true},
 	abbr={Thesis},
 	bibtex_show={true},
 	abstract     = {Neural networks learn patterns from data to solve complex problems. To understand and infer meaning in language, neural models have to learn complicated nuances. Meaning is often determined from context. With context, languages allow meaning to be conveyed even when the specific words used are not known by the reader. To model this learning process, a system has to learn from a few instances in context and be able to generalize well to unseen cases. In this thesis, we focus on understanding certain potentials of contexts in neural models and design augmentation models to benefit from them. We focus on machine translation as an important instance of the more general language understanding problem. This task accentuates the value of capturing nuances of language and the necessity of generalization from few observations. The main problem we study in this thesis is what neural machine translation models learn from data and how we can devise more focused contexts to enhance this learning. Looking more in-depth into the role of context and the impact of data on learning models is essential to advance the Natural Language Processing (NLP) field. Understanding the importance of data in the learning process and how neural network models interact with and benefit from data can help develop more accurate NLP systems. Moreover, it helps highlight the vulnerabilities of current neural networks and provides insights into designing more robust models.}
@@ -438,7 +441,6 @@
 	url          = {http://aclweb.org/anthology/D18-1040.pdf},
 	abstract     = {Neural Machine Translation has achieved state-of-the-art performance for several language pairs using a combination of parallel and synthetic data. Synthetic data is often generated by back-translating sentences randomly sampled from monolingual data using a reverse translation model. While back-translation has been shown to be very effective in many cases, it is not entirely clear why. In this work, we explore different aspects of back-translation, and show that words with high prediction loss during training benefit most from the addition of synthetic data. We introduce several variations of sampling strategies targeting difficult-to-predict words using prediction losses and frequencies of words. In addition, we also target the contexts of difficult words and sample sentences that are similar in context. Experimental results for the WMT news translation task show that our method improves translation quality by up to 1.7 and 1.2 Bleu points over back-translation using random sampling for German-English and English-German, respectively},
 	bib          = {https://www.aclweb.org/anthology/D18-1040.bib},
-	selected     = {true},
 	bibtex_show={true},
 }
 @inproceedings{2018arXiv180204681F,
