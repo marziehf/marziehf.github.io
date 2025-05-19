@@ -25,4 +25,3 @@ As a scientist, I’m broadly interested in all aspects of natural language unde
 Previously I was the NLP/ML research lead at [Zeta Alpha Vector](https://www.zeta-alpha.com/) working on smarter ways to discover and organize knowledge. 
 I did my PhD at the [Language Technology Lab](https://ltl.science.uva.nl/) (originally part of the [ILPS group](https://irlab.science.uva.nl/)), University of Amsterdam, working on developing models to understand and utilize interesting phenomena in the data. 
 During my PhD I was advised by [Christof Monz](https://staff.fnwi.uva.nl/c.monz/index.html) and [Arianna Bisazza](http://www.cs.rug.nl/~bisazza/index.html). I received my B.Sc. from [Sharif University](http://www.en.sharif.edu/) majoring in Computer Engineering and M.Sc. from [University of Tehran](https://ut.ac.ir/en) majoring in Artificial Intelligence.
-
