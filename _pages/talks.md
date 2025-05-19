@@ -15,12 +15,14 @@ nav_order: 2
 - Speaker at **Copenhagen NLP Simsymposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. June 2025.
 
 ### 2025
+<hr>
 
 - Speaker at **Open Institute of Technology**. March 2025.
 - Speaker at **Advanced Language Processing School (ALPS)**. April 2025. [link](https://lig-alps.imag.fr/index.php/speakers/)
 - Panelist at **DALI Sorrento**. April 2025. [link](https://dalimeeting.org/sorrento2025/)
 
 ### 2024
+<hr>
 
 - Speaker at **OnDeck ML Research, NeurIPS** on *"Charting the Future of Multilingual Models"*. December 2024.
 - Speaker at **Local Language Partnerships Accelerator Pilot, UNDP**. November 2024.
@@ -40,6 +42,7 @@ nav_order: 2
 
 
 ### 2023
+<hr>
 
 - Guest lecture at **Leiden University**. November 2023.
 - Invited talk at **Toronto Data Workshop** on *"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"*. 2023. [video link](https://www.youtube.com/watch?v=kVOKtJ8ZTgI)
@@ -50,19 +53,23 @@ nav_order: 2
 - Talk as part of the **ACL Mentorship** program on *"When life happens: How to navigate challenging times in research?"*. 2023. [video link](https://www.youtube.com/watch?v=g59P3YiqRxU)
 
 ### 2022
+<hr>
 
 - Guest on **Neural Search Talks** podcast on *"Generating Training Data with Large Language Models"*. 2022. [video link](https://www.youtube.com/watch?v=MlxZI_bFD8U&t=2350s)
 - Talk at **Transformers at Work III** workshop on *"From Transformers to work: advances in semantic search"*. 2022. [video link](https://www.youtube.com/watch?v=iHjiW0kRy3s&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=3&t=5s)
 
 ### 2021
+<hr>
 
 - Talk at **Transformers at Work II** workshop on *"The power of semantic search: how and why?"*. 2021. [video link](https://www.youtube.com/watch?v=a6JVtQIJFD8&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=12)
 
 ### 2020
+<hr>
 
 - Talk at **Transformers at Work I** workshop. 2020.
 
 ### 2018
+<hr>
 
 - Invited talk at [**CL Seminar Series** of the ILLC (University of Amsterdam)](https://projects.illc.uva.nl/LaCo/CLS/) on *"The impact of context on machine translation models."* 2018.
 - Invited talk at **Machine Learning meetup** at Amsterdam Politie on *"The impact of context on machine translation models."* 2018.
