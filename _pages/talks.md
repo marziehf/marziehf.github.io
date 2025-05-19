@@ -16,22 +16,22 @@ nav_order: 2
 
 ### 2025
 
-- Talk at **Open Institute of Technology**. March 2025.
+- Speaker at **Open Institute of Technology**. March 2025.
 - Speaker at **Advanced Language Processing School (ALPS)**. April 2025. [link](https://lig-alps.imag.fr/index.php/speakers/)
 - Panelist at **DALI Sorrento**. April 2025. [link](https://dalimeeting.org/sorrento2025/)
 
 ### 2024
 
-- Talk at **OnDeck ML Research, NeurIPS** on *"Charting the Future of Multilingual Models"*. December 2024.
-- Talk at **Local Language Partnerships Accelerator Pilot, UNDP**. November 2024.
-- Talk at **University of Tehran** on *"ساخت نسل بعدی مدل‌های چندزبانه"*. November 2024.
+- Speaker at **OnDeck ML Research, NeurIPS** on *"Charting the Future of Multilingual Models"*. December 2024.
+- Speaker at **Local Language Partnerships Accelerator Pilot, UNDP**. November 2024.
+- Speaker at **University of Tehran** on *"ساخت نسل بعدی مدل‌های چندزبانه"*. November 2024.
 - Panelist at **Kaggle AMA**. October 2024.
 - Panelist at **Nordic Data Science & ML Summit** on *"Building the Future of AI: Scaling Foundation Models and Agents for Real-World Applications"*. October 2024. [link](https://ndsmlsummit.com/speakers/)
-- Talk at **Understanding Deep Learning Lecture Series** on *"Multilingual language models: Benefits and Barriers"*. October 2024.
-- Talk at **UKP-CIS Joint Invited Talk Series** on *"Building the Next Generation of Multilingual Models"*. October 2024.
-- Talk at **Sharif University LLM Journal Club** on *"مدل های زبانی چند زبانه: چرا و چگونه"*. October 2024. [video link](https://www.youtube.com/watch?v=rPeeNwoBZEg)
+- Speaker at **Understanding Deep Learning Lecture Series** on *"Multilingual language models: Benefits and Barriers"*. October 2024.
+- Speaker at **UKP-CIS Joint Invited Talk Series** on *"Building the Next Generation of Multilingual Models"*. October 2024.
+- Speaker at **Sharif University LLM Journal Club** on *"مدل های زبانی چند زبانه: چرا و چگونه"*. October 2024. [video link](https://www.youtube.com/watch?v=rPeeNwoBZEg)
 - Keynote talk at **PyData Amsterdam** on *"The Art of Language: Mastering Multilingual Challenges in LLMs"*. September 2024. [video link](https://www.youtube.com/watch?v=pQgMUhaeuxA)
-- Talk at **United Nations Development Programme** on *"AI and digitizing low-resource languages"*. August 2024. [link](https://x.com/UNDP)
+- Speaker at **United Nations Development Programme** on *"AI and digitizing low-resource languages"*. August 2024. [link](https://x.com/UNDP)
 - Interview with **Max Welling** on *"C4AI Fireside Chat series"*. July 2024. [video link](https://www.youtube.com/watch?v=4I09wBeP-GI&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk)
 - Keynote talk at **SlaterCon** on *"Aya: A massively multilingual dataset and language model"*. March 2024. [link](https://slator.com/event/slatorcon-remote-march-2024/)
 - Interview with **Mirella Lapata** on *"C4AI Fireside Chat series"*. March 2024. [video link](https://www.youtube.com/watch?v=6TS_ZetD3HY&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk)
