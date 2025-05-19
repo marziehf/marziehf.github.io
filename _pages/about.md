@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Senior Research Scientist</strong> @ <a href='https://cohere.for.ai/'>Cohere For AI</a>  #  •  Understands Language  
+subtitle: <strong>Staff Research Scientist</strong> @ <a href='https://cohere.for.ai/'>Cohere Labs</a>  #  •  Understands Language  
 
 profile:
   align: right
