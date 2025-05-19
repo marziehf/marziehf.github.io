@@ -7,85 +7,60 @@ nav: true
 nav_order: 2
 ---
 
+### Upcoming Talks
+
+- Speaker at **Cardiff NLP Summer Workshop**. July 2025. [link](https://www.cardiffnlpworkshop.org/)
+- Speaker at **Copenhagen NLP Simsymposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. June 2025.
+
+### 2025
+
+- Talk at **Open Institute of Technology**. March 2025.
+- Speaker at **Advanced Language Processing School (ALPS)**. April 2025. [link](https://lig-alps.imag.fr/index.php/speakers/)
+- Panelist at **DALI Sorrento**. April 2025. [link](https://dalimeeting.org/sorrento2025/)
+
+### 2024
+
+- Talk at **OnDeck ML Research, NeurIPS** on *"Charting the Future of Multilingual Models"*. December 2024.
+- Talk at **Local Language Partnerships Accelerator Pilot, UNDP**. November 2024.
+- Talk at **University of Tehran** on *"ساخت نسل بعدی مدل‌های چندزبانه"*. November 2024.
+- Panelist at **Kaggle AMA**. October 2024.
+- Panelist at **Nordic Data Science & ML Summit** on *"Building the Future of AI: Scaling Foundation Models and Agents for Real-World Applications"*. October 2024. [link](https://ndsmlsummit.com/speakers/)
+- Talk at **Understanding Deep Learning Lecture Series** on *"Multilingual language models: Benefits and Barriers"*. October 2024.
+- Talk at **UKP-CIS Joint Invited Talk Series** on *"Building the Next Generation of Multilingual Models"*. October 2024.
+- Talk at **Sharif University LLM Journal Club** on *"مدل های زبانی چند زبانه: چرا و چگونه"*. October 2024. [video link](https://www.youtube.com/watch?v=rPeeNwoBZEg)
+- Keynote talk at **PyData Amsterdam** on *"The Art of Language: Mastering Multilingual Challenges in LLMs"*. September 2024. [video link](https://www.youtube.com/watch?v=pQgMUhaeuxA)
+- Talk at **United Nations Development Programme** on *"AI and digitizing low-resource languages"*. August 2024. [link](https://x.com/UNDP)
+- Interview with **Max Welling** on *"C4AI Fireside Chat series"*. July 2024. [video link](https://www.youtube.com/watch?v=4I09wBeP-GI&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk)
+- Keynote talk at **SlaterCon** on *"Aya: A massively multilingual dataset and language model"*. March 2024. [link](https://slator.com/event/slatorcon-remote-march-2024/)
+- Interview with **Mirella Lapata** on *"C4AI Fireside Chat series"*. March 2024. [video link](https://www.youtube.com/watch?v=6TS_ZetD3HY&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk)
+- Tutorial at **AAAI** on *"Aligning Large Language Models to Low-Resource Languages"*. February 2024. [link](https://aaai.org/aaai-conference/aaai-24-tutorial-and-lab-list/#tq11)
+- Interview with **Jacob Andreas** on *"C4AI Fireside Chat series"*. January 2024. [video link](https://www.youtube.com/watch?v=bAxqt5DybPE&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk)
 
 
-<section>
-<h3>Upcoming Talks</h3>
-<ul style="list-style-type:circle">
+### 2023
 
+- Guest lecture at **Leiden University**. November 2023.
+- Invited talk at **Toronto Data Workshop** on *"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"*. 2023. [video link](https://www.youtube.com/watch?v=kVOKtJ8ZTgI)
+- Invited talk at **ELLIS Symposium on Large Language and Foundation Models**. 2023. [link](https://sites.google.com/view/ellisfms2023/)
+- Invited talk at **Schwartz Reisman Institute Seminar Series** on *"Mastering language understanding with AI: How multilingualism shapes LLMs"*. 2023. [video link](https://www.youtube.com/watch?v=qTR2J7sNXK8)
+- Invited talk at **Women in AI Summit** as a nominee in Top 5 AI researcher category. 2023. [link](https://womeninai.nl/2023/11/08/wai-summit-top-5-award-nominees/)
+- Panelist on **The Turing Way's Fireside Chat** on *"Who is building open source AI?"*. 2023. [video link](https://www.youtube.com/watch?v=e8EBI1ocxt4)
+- Talk as part of the **ACL Mentorship** program on *"When life happens: How to navigate challenging times in research?"*. 2023. [video link](https://www.youtube.com/watch?v=g59P3YiqRxU)
 
-<li style="padding-bottom: 16px;"> Talk at <b>Open institute of technology</b>. March 2025. </li>
+### 2022
 
-<li style="padding-bottom: 16px;"> Speaker at <b>Advanced Language Processing School (ALPS)</b>. April 2025. <a href="https://lig-alps.imag.fr/index.php/speakers/">link</a>.</li>
+- Guest on **Neural Search Talks** podcast on *"Generating Training Data with Large Language Models"*. 2022. [video link](https://www.youtube.com/watch?v=MlxZI_bFD8U&t=2350s)
+- Talk at **Transformers at Work III** workshop on *"From Transformers to work: advances in semantic search"*. 2022. [video link](https://www.youtube.com/watch?v=iHjiW0kRy3s&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=3&t=5s)
 
-<li style="padding-bottom: 16px;"> Panelist at <b>DALI Sorrento</b>. April 2025. <a href="https://dalimeeting.org/sorrento2025/">link</a>.</li>
+### 2021
 
+- Talk at **Transformers at Work II** workshop on *"The power of semantic search: how and why?"*. 2021. [video link](https://www.youtube.com/watch?v=a6JVtQIJFD8&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=12)
 
-</ul>
-</section>
+### 2020
 
+- Talk at **Transformers at Work I** workshop. 2020.
 
-<section>
-<h3>Previous Talks</h3>
-<ul style="list-style-type:circle">
+### 2018
 
-<li style="padding-bottom: 16px;"> Talk at <b>OnDeck ML Research, NeurIPS</b> on <i>"Charting the Future of Multilingual Models".</i> December 2024. </li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>Local Language Partnerships Accelerator Pilot, UNDP</b>. November 2024. </li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>University of Tehran</b> on <i>"ساخت نسل بعدی مدل‌های چندزبانه"</i>. November 2024. </li>
-
-<li style="padding-bottom: 16px;"> Panelist at <b>Kaggle AMA</b>. October 2024. </li>
-
-<li style="padding-bottom: 16px;"> Panelist at <b>Nordic Data Science & ML Summit</b> on <i>"Building the Future of AI: Scaling Foundation Models and Agents for Real-World Applications"</i>. October 2024. <a href="https://ndsmlsummit.com/speakers/">link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>Understanding Deep Learning Lecture Series</b> on <i>"Multilingual language models: Benefits and Barriers".</i> October 2024. </li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>UKP-CIS Joint Invited Talk Series</b> on <i>"Building the Next Generation of Multilingual Models".</i> October 2024. </li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>Sharif University LLM Journal Club</b> on <i>"مدل های زبانی چند زبانه: چرا و چگونه"</i>. October 2024. <a href="https://www.youtube.com/watch?v=rPeeNwoBZEg">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Keynote talk at <b>PyData Amsterdam</b> on <i>"The Art of Language: Mastering Multilingual Challenges in LLMs"</i>. September 2024. <a href="https://www.youtube.com/watch?v=pQgMUhaeuxA">video link</a>. </li>
-
-<li style="padding-bottom: 16px;">Talk at <b>United Nations Development Programme</b> on <i>"AI and digitizing low-resource languages"</i>. August 2024. <a href="https://x.com/UNDP">link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Interview with <b>Max Welling</b> on <i>"C4AI Fireside Chat series"</i>. July 2024. <a href="https://www.youtube.com/watch?v=4I09wBeP-GI&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Keynote talk at <b>SlaterCon</b> on <i>"Aya: A massively multilingual dataset and language model"</i>. March 2024. <a href="https://slator.com/event/slatorcon-remote-march-2024/">link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Interview with <b>Mirella Lapata</b> on <i>"C4AI Fireside Chat series"</i>. March 2024. <a href="https://www.youtube.com/watch?v=6TS_ZetD3HY&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk">video link</a>. </li>
-
-
-<li style="padding-bottom: 16px;"> Tutorial at <b>AAAI</b> on <i>"Aligning Large Language Models to Low-Resource Languages"</i>. Febreury 2024. <a href="https://aaai.org/aaai-conference/aaai-24-tutorial-and-lab-list/#tq11">link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Interview with <b>Jacob Andreas</b> on <i>"C4AI Fireside Chat series"</i>. January 2024. <a href="https://www.youtube.com/watch?v=bAxqt5DybPE&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Guest lecture at <b>leiden university</b>. November 2023. </li>
-
-<li style="padding-bottom: 16px;"> Invited talk at <b>Toronto Data Workshop</b> on <i>"AYA: An Open Science Initiative to Accelerate Multilingual AI Progress"</i>. 2023. <a href="https://www.youtube.com/watch?v=kVOKtJ8ZTgI">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Invited talk at <b>ELLIS Symposium on Large Language and Foundation Models</b>. 2023. <a href="https://sites.google.com/view/ellisfms2023/">link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Invited talk at <b>Schwartz Reisman Institute Seminar Series</b> on <i>"Mastering language understanding with AI: How multilingualism shapes LLMs"</i> 2023. <a href="https://www.youtube.com/watch?v=qTR2J7sNXK8">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Invited talk at <b>Women in AI Summit</b> as a nominee in Top 5 AI researcher category. 2023. <a href="https://womeninai.nl/2023/11/08/wai-summit-top-5-award-nominees/">link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Panelist on <b>The Turing Way's Fireside Chat</b> on <i>"Who is building open source AI?"</i>. 2023. <a href="https://www.youtube.com/watch?v=e8EBI1ocxt4">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Talk as part of the <b>ACL Mentorship</b> program on <i>"When life happens: How to navigate challenging times in research?"</i>. 2023. <a href="https://www.youtube.com/watch?v=g59P3YiqRxU">video link</a>. </li>
-
-<li style="padding-bottom: 16px;"> Guest on <b>Neural Search Talks</b> podcast on <i>"Generating Training Data with Large Language Models"</i>. 2022. <a href="https://www.youtube.com/watch?v=MlxZI_bFD8U&t=2350s">video link</a>.</li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>Transformers at Work III</b> workshop on <i>"From Transformers to work: advances in semantic search"</i>. 2022. <a href="https://www.youtube.com/watch?v=iHjiW0kRy3s&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=3&t=5s">video link</a>.</li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>Transformers at Work II</b> workshop on <i>"The power of semantic search: how and why?"</i>. 2021. <a href="https://www.youtube.com/watch?v=a6JVtQIJFD8&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=12">video link</a>.</li>
-
-<li style="padding-bottom: 16px;"> Talk at <b>Transformers at Work I</b> workshop. 2020. </li>
-
-<li style="padding-bottom: 16px;"> Invited talk at <b><a href="https://projects.illc.uva.nl/LaCo/CLS/">CL Seminar Series</a> of the ILLC (University of Amsterdam)</b> on <i>"The impact of context on machine translation models."</i>. 2018. </li>
-
-<li style="padding-bottom: 16px;"> Invited talk at <b>Machine Learning meetup</b> at Amsterdam Politie on <i>"The impact of context on machine translation models."</i>. 2018. </li>
-
-</ul>
-</section>
-
+- Invited talk at [**CL Seminar Series** of the ILLC (University of Amsterdam)](https://projects.illc.uva.nl/LaCo/CLS/) on *"The impact of context on machine translation models."* 2018.
+- Invited talk at **Machine Learning meetup** at Amsterdam Politie on *"The impact of context on machine translation models."* 2018.
