@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-### Upcoming Talks and Events
 
-{: .gray}
+### Upcoming Talks and Events
+<hr>
 
 - Speaker at **Cardiff NLP Summer Workshop**. July 2025. [link](https://www.cardiffnlpworkshop.org/)
 - Speaker at **Copenhagen NLP Simsymposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. June 2025.
