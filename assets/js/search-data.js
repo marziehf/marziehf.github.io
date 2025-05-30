@@ -443,8 +443,8 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-accepted-to-acl-main-track-aya-model-aya-dataset-and-rloo",
           title: 'Three papers accepted to ACL main track: Aya Model, Aya Dataset, and RLOO!...',
           description: "",
-          section: "News",},{id: "news-fire-our-aya-model-paper-received-the-acl-best-paper-award",
-          title: ':fire: Our Aya model paper received the ACL Best Paper Award!',
+          section: "News",},{id: "news-our-aya-model-paper-received-the-acl-best-paper-award",
+          title: 'Our Aya model paper received the ACL Best Paper Award!',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-to-emnlp-main-track-multilingual-prism-and-llm-see-llm-do",
           title: 'Two papers accepted to EMNLP main track: Multilingual Prism and LLM see, LLM...',
@@ -527,7 +527,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%61%72%7A%69%65%68@%63%6F%68%65%72%65.%63%6F%6D", "_blank");
+          window.open("mailto:<%66%69%72%73%74%6E%61%6D%65>@%63%6F%68%65%72%65.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
