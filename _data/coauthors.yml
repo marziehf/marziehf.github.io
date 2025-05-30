@@ -1,34 +1,87 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Nogueira":   
+  - firstname: ["Rodrigo", "R."]
+    url: https://sites.google.com/site/rodrigofrassettonogueira/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Monz":
+  - firstname: ["Christof", "C."]
+    url: https://staff.science.uva.nl/c.monz/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bisazza":
+  - firstname: ["Arianna", "A."]
+    url: http://www.cs.rug.nl/~bisazza/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ghader":
+  - firstname: ["Hamid", "Hamidreza", "H.", "H. R."]
+    url: https://hamidreza-ghader.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Faili":
+  - firstname: ["Heshaam", "H."]
+    url: https://ece.ut.ac.ir/en/~hfaili
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Shakery":
+  - firstname: ["Azadeh", "A."]
+    url: https://ece.ut.ac.ir/en/~shakery
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Hooker":
+  - firstname: ["Sara", "S."]
+    url: https://www.sarahooker.me/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Wang":
+  - firstname: ["Alex", "A."]
+    url: https://w4ngatang.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Pozzobon":
+  - firstname: ["Luiza", "L."]
+    url: https://luizapozzobon.github.io/
+
+"Üstün":
+  - firstname: ["Ahmet", "A."]
+    url: https://ahmetustun.github.io/
+
+
+"Marion":
+  - firstname: ["Max", "M."]
+    url: https://maxisawesome.github.io/
+
+
+"Kim":
+  - firstname: ["Edward", "E.", "Eddie"]
+    url: https://eddotman.github.io/
+
+
+"Boubdir":
+  - firstname: ["Meriem", "M."]
+    url: https://twitter.com/mellem_boo
+
+ 
+"Ermiş":
+  - firstname: ["Beyza", "B."]
+    url: https://twitter.com/beyzaermis
+
+
+"Ruder":
+  - firstname: ["Sebastian", "S."]
+    url: https://www.ruder.io/
+
+"Kreutzer":
+  - firstname: ["Julia", "J."]
+    url: https://juliakreutzer.github.io/
+
+
+"Blunsom":
+  - firstname: ["Phil", "P."]
+    url: https://scholar.google.com/citations?user=eJwbbXEAAAAJ&hl=en
+
+
+"Marchisio":
+  - firstname: ["Kelly", "K."]
+    url: https://kellymarchisio.github.io/
+
+
+"Longpre":
+  - firstname: ["Shayne", "S."]
+    url: https://www.shaynelongpre.com/
+
+"Smith":
+  - firstname: ["Noah A.", "N."]
+    url: https://nasmith.github.io/
