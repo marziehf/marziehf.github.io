@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/talks/";
           },
         },{id: "nav-service",
-          title: "Service",
+          title: "service",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -426,7 +426,7 @@ ninja.data = [{
           title: 'Selected as an ICLR Highlighted Reviewer.',
           description: "",
           section: "News",},{id: "news-inpars-v2-is-sota-on-the-beir-leaderboard-in-zero-shot-information-retrieval",
-          title: 'InPars-v2 is SoTA on the BEIR Leaderboard in zero-shot Information Retrieval',
+          title: 'InPars-v2 is SoTA on the BEIR Leaderboard in zero-shot Information Retrieval.',
           description: "",
           section: "News",},{id: "news-i-m-excited-to-announce-that-i-have-joined-sara-hooker-s-team-at-cohere-for-ai-as-a-senior-research-scientist",
           title: 'I’m excited to announce that I have joined Sara Hooker’s team at Cohere...',
