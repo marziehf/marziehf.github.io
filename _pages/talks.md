@@ -11,6 +11,7 @@ nav_order: 2
 ### Upcoming Talks and Events
 <hr>
 
+- Speaker at **SWORD AI Summit**. Porto. November 2025. [link](https://aisummit.swordhealth.com/)
 - Speaker at **NLP Summer Workshop**. Cardiff. July 2025. [link](https://www.cardiffnlpworkshop.org/)
 - Speaker at **NLP Simsymposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025.
 
