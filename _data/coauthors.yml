@@ -1,87 +1,79 @@
-"Nogueira":   
+"nogueira":   
   - firstname: ["Rodrigo", "R."]
     url: https://sites.google.com/site/rodrigofrassettonogueira/
 
-"Monz":
+"monz":
   - firstname: ["Christof", "C."]
     url: https://staff.science.uva.nl/c.monz/
 
-"Bisazza":
+"bisazza":
   - firstname: ["Arianna", "A."]
     url: http://www.cs.rug.nl/~bisazza/
 
-"Ghader":
+"ghader":
   - firstname: ["Hamid", "Hamidreza", "H.", "H. R."]
     url: https://hamidreza-ghader.github.io/
 
-"Faili":
+"faili":
   - firstname: ["Heshaam", "H."]
     url: https://ece.ut.ac.ir/en/~hfaili
 
-"Shakery":
+"shakery":
   - firstname: ["Azadeh", "A."]
     url: https://ece.ut.ac.ir/en/~shakery
 
-"Hooker":
+"hooker":
   - firstname: ["Sara", "S."]
     url: https://www.sarahooker.me/
 
-"Wang":
+"wang":
   - firstname: ["Alex", "A."]
     url: https://w4ngatang.github.io/
 
-"Pozzobon":
+"pozzobon":
   - firstname: ["Luiza", "L."]
     url: https://luizapozzobon.github.io/
 
-"Üstün":
+"üstün":
   - firstname: ["Ahmet", "A."]
     url: https://ahmetustun.github.io/
 
-
-"Marion":
+"marion":
   - firstname: ["Max", "M."]
     url: https://maxisawesome.github.io/
 
-
-"Kim":
+"kim":
   - firstname: ["Edward", "E.", "Eddie"]
     url: https://eddotman.github.io/
 
-
-"Boubdir":
+"boubdir":
   - firstname: ["Meriem", "M."]
     url: https://twitter.com/mellem_boo
-
  
-"Ermiş":
+"ermis":
   - firstname: ["Beyza", "B."]
     url: https://twitter.com/beyzaermis
 
-
-"Ruder":
+"ruder":
   - firstname: ["Sebastian", "S."]
     url: https://www.ruder.io/
 
-"Kreutzer":
+"kreutzer":
   - firstname: ["Julia", "J."]
     url: https://juliakreutzer.github.io/
 
-
-"Blunsom":
+"blunsom":
   - firstname: ["Phil", "P."]
     url: https://scholar.google.com/citations?user=eJwbbXEAAAAJ&hl=en
 
-
-"Marchisio":
+"marchisio":
   - firstname: ["Kelly", "K."]
     url: https://kellymarchisio.github.io/
 
-
-"Longpre":
+"longpre":
   - firstname: ["Shayne", "S."]
     url: https://www.shaynelongpre.com/
 
-"Smith":
+"smith":
   - firstname: ["Noah A.", "N."]
     url: https://nasmith.github.io/
