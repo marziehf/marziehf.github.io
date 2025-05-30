@@ -5,8 +5,8 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Marzieh
 last_name: Fadaee
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+# You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for Marzieh Fadaee
 footer_text: >
