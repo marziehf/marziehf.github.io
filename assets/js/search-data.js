@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-talks",
-          title: "Talks",
+          title: "talks",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -523,18 +523,11 @@ ninja.data = [{
           window.open("https://bsky.app/profile/mziizm.bsky.social", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:<%66%69%72%73%74%6E%61%6D%65>@%63%6F%68%65%72%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/marziehf", "_blank");
+          window.open("https://twitter.com/mziizm", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -544,6 +537,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/marzieh-fadaee-b7393370", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/marziehf", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -551,11 +551,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=NZqs0toAAAAJ", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/mziizm", "_blank");
+          window.open("mailto:<%66%69%72%73%74%6E%61%6D%65>@%63%6F%68%65%72%65.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',
