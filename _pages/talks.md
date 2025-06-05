@@ -12,8 +12,8 @@ nav_order: 3
 <hr>
 
 - Speaker at **SWORD AI Summit**. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
-- Speaker at **NLP Summer Workshop**. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
-- Speaker at **NLP Simsymposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025.
+- Speaker at **Cardiff NLP Summer Workshop**. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
+- Speaker at **Copenhagen NLP Symposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025. [[x]](https://cphnlp.github.io/)
 
 ### 2025
 <hr>
