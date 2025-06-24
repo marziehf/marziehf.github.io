@@ -13,7 +13,7 @@ nav_order: 3
 
 - Speaker at **Copenhagen NLP Symposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025. [[x]](https://cphnlp.github.io/)
 - Talk at **BuzzRobot developer community**. Online. June 2025.
-- Speaker at **Cardiff NLP Summer Workshop**. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
+- Speaker at **Cardiff NLP Summer Workshop** on *Rethinking Evaluation for the Future of Language Models*. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
 - Talk at **talk at MSR Africa**. Online. July 2025.
 - Speaker at **SWORD AI Summit**. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
 
