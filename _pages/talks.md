@@ -11,15 +11,16 @@ nav_order: 3
 ### Upcoming Talks and Events
 <hr>
 
-- Speaker at **Copenhagen NLP Symposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025. [[x]](https://cphnlp.github.io/)
-- Talk at **BuzzRobot developer community**. Online. June 2025.
-- Speaker at **Cardiff NLP Summer Workshop** on *Rethinking Evaluation for the Future of Language Models*. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
-- Talk at **talk at MSR Africa**. Online. July 2025.
+
 - Speaker at **SWORD AI Summit**. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
 
 ### 2025
 <hr>
 
+- Talk at **talk at MSR Africa**. Online. July 2025.
+- Speaker at **Cardiff NLP Summer Workshop** on *Rethinking Evaluation for the Future of Language Models*. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
+- Talk at **BuzzRobot developer community** podcast. Online. June 2025.
+- Keynote talk at **Copenhagen NLP Symposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025. [[x]](https://cphnlp.github.io/)
 - Panelist at **DALI Sorrento** on *"LLMs for social impact workshop"*. Sorrento. April 2025. [[x]](https://dalimeeting.org/sorrento2025/)
 - Speaker at **DALI Sorrento** on *"The Unscientific Science of AI Evaluation"*. Sorrento. April 2025. [[x]](https://dalimeeting.org/sorrento2025/)
 - Speaker at **Advanced Language Processing School (ALPS)** on *"Languages as Windows to Human Knowledge: Building Better Language Models Through Global Understanding"*. Aussois. April 2025. [[x]](https://lig-alps.imag.fr/index.php/speakers/)
