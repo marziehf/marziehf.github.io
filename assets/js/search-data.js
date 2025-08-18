@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/service/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-i-the-texture-of-language",
+        
+          title: "I. The Texture of Language",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/texture-of-language/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
