@@ -15,15 +15,15 @@ When two people describe the same event in different languages, they don't simpl
 Even languages with similar grammar diverge in their underlying assumptions. What one language treats as essential information, another considers redundant. What one foregrounds, another backgrounds. These aren't mere translation challenges, they're windows into fundamentally different ways of organizing thought.
 
 
+Human communication operates through multiple channels simultaneously. A single utterance draws on syntax and semantics, yes, but also on tone, gesture, shared history, and cultural frames of reference. These elements rarely translate cleanly across linguistic boundaries, which is why even sophisticated translation remains an interpretive art rather than a mechanical process.
+At its core, language functions as a cognitive operating system. It compresses complex thoughts into manageable forms, enables analogies to bridge disparate domains, and allows patterns to persist in memory long after their original context fades. This compression isn't neutral, it actively shapes what we notice, how we reason, and what we can imagine.
+
 <div class="row mt-3 text-center">
     {% include figure.liquid loading="eager" path="assets/img/blog/spaceexpo.jpg" class="img-fluid rounded z-depth-1 mx-auto" width="70%" %}
 </div>
 <div class="caption">
     A wall of Comics at <a href="https://www.space-expo.nl/" target="_blank" rel="noopener noreferrer">the Space Expo</a>. Comic strips about space began as entertainment, yet they reveal a deeper cognitive drive: to explore, imagine, and model worlds beyond our own. The same mechanisms that let us play with language, typography, and visual storytelling (<em>abstraction, analogy,</em> and <em>recombination</em>) may underlie both human intelligence and our tools for extending it.
 </div>
-
-Human communication operates through multiple channels simultaneously. A single utterance draws on syntax and semantics, yes, but also on tone, gesture, shared history, and cultural frames of reference. These elements rarely translate cleanly across linguistic boundaries, which is why even sophisticated translation remains an interpretive art rather than a mechanical process.
-At its core, language functions as a cognitive operating system. It compresses complex thoughts into manageable forms, enables analogies to bridge disparate domains, and allows patterns to persist in memory long after their original context fades. This compression isn't neutral, it actively shapes what we notice, how we reason, and what we can imagine.
 
 Analogy plays a particularly crucial role in this system. Just as a well-chosen metaphor can illuminate a complex concept instantly, analogical reasoning allows minds to repurpose existing cognitive structures for new problems. Language serves as the medium that makes these analogies transmissible carrying them across individuals, cultures, and now, artificial systems.
 The visual dimension amplifies this process. Diagrams, sketches, and even the spatial arrangement of text can fundamentally alter understanding. The same concept presented as dense prose versus elegant visualization often feels like encountering two entirely different ideas. Effective visualization doesn't merely display information; it reshapes how that information can be reasoned about.
@@ -39,4 +39,4 @@ This raises a more intriguing possibility about intelligence itself: if language
 
 ---
 
-<strong>Author Note:</strong> This series is the result of a continuous inspiration by the works of Douglas Hofstadter and Edward Tufte.
+<strong>Author's Note:</strong> This series is the result of a continuous inspiration by the works of Douglas Hofstadter and Edward Tufte.
