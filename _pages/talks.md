@@ -12,12 +12,12 @@ nav_order: 3
 <hr>
 
 
-- Speaker at **SWORD AI Summit**. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
+- Speaker at **SWORD AI Summit** on *What We Measure Is What We Build: Rethinking Evaluation of LLMs*. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
 
 ### 2025
 <hr>
 
-- Talk at **talk at MSR Africa**. Online. July 2025.
+- Talk at **MSR Africa**. Online. July 2025.
 - Speaker at **Cardiff NLP Summer Workshop** on *Rethinking Evaluation for the Future of Language Models*. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
 - Talk at **BuzzRobot developer community** podcast. Online. June 2025.
 - Keynote talk at **Copenhagen NLP Symposium** on *"Evaluating Language Models: A Mirror, a Microscope, and a Map"*. Copenhagen. June 2025. [[x]](https://cphnlp.github.io/)
