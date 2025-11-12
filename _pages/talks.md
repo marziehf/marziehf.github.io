@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: talks
 description: 
 nav: true
 nav_order: 3
@@ -17,7 +17,6 @@ Marzieh Fadaee is the Head of Cohere Labs, where she leads research on fundament
 </details>
 
 
-<br>
 <br>
 <br>
 
