@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Staff Research Scientist</strong> @ <a href='https://cohere.com/research'>Cohere Labs</a>
+subtitle: <strong>Head of Research</strong> @ <a href='https://cohere.com/research'>Cohere Labs</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I lead [Cohere Labs](https://cohere.com/research), where we study how to make AI systems trustworthy, collaborative, and globally inclusive. My research explores multilingual and culturally adaptive models, data-efficient learning, and new evaluation methods that capture real-world impact. I’m also fascinated by **creative and open-ended tasks** as manifestations of intelligence: how visual and verbal systems learn, communicate, and express ideas across languages and modalities.
+I lead [Cohere Labs](https://cohere.com/research), where we study how to make AI systems trustworthy, collaborative, and globally inclusive. My research explores multilingual and culturally adaptive models, data-efficient learning, and new evaluation methods that capture real-world impact. I’m also fascinated by the creative and expressive dimensions of intelligence: how systems translate between modes of understanding, from verbal to visual or intuitive to formal; the creative reconstructions that shape how knowledge is represented, shared, and understood. At its core, my work aims to advance the science of systems that learn, communicate, and generalize across the full diversity of human experience.
 
 
  
