@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description: 
 nav: true
 nav_order: 3
@@ -9,14 +9,17 @@ nav_order: 3
 
 <details>
 
-<summary>Short Bio for Speaking Engagements</summary>
+<summary>Short Bio for speaking engagements</summary>
 
 <br>
 Marzieh Fadaee is the Head of Cohere Labs, where she leads research on fundamental problems in artificial intelligence. Her work spans multilingual language models, data-efficient learning, model evaluation, and trustworthy AI, with a focus on building systems that are robust, inclusive, and globally impactful. She co-leads the Aya initiative that brought together over 3,000 collaborators worldwide to create the world's largest multilingual instruction dataset and the development of a series of state-of-the-art multilingual language and vision models. Before joining Cohere Labs, Marzieh was the Research Lead at Zeta Alpha Vector, where she pioneered innovative approaches to knowledge discovery and organization. She holds a PhD from the University of Amsterdam where she conducted foundational research on neural machine translation. Her research has been published in top venues such as NeurIPS, ACL, EMNLP, and ICLR, and she frequently serves as a mentor and advisor in the global AI research community.
 
-
 </details>
 
+
+<br>
+<br>
+<br>
 
 ### Upcoming Talks and Events
 <hr>
@@ -24,7 +27,7 @@ Marzieh Fadaee is the Head of Cohere Labs, where she leads research on fundament
 - Speaker at **Women in AI Research** podcast. Online. Febreury 2026. [[x]](https://women-in-ai-research.github.io/)
 - Keynote talk at **SWORD AI Summit** on *What We Measure Is What We Build: Rethinking Evaluation of LLMs*. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
 - Speaker at **10th INESC TEC Autumn Forum** on *Building Human-Centric Models from Global Voices*. Porto. November 2025.
-- Speaker at **RAISE center at UW**. Online. November 2025.
+- Speaker at **RAISE center at UW** on *How Evaluation Directs AI Progress*. Online. November 2025.
 - Keynote at **International Summer School in Generative AI**. Rome. June 2026.
 
 
