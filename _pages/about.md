@@ -27,13 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I lead [Cohere Labs](https://cohere.com/research), where we study how to make AI systems trustworthy, collaborative, and globally inclusive. My research explores multilingual and culturally adaptive models, data-efficient learning, and new evaluation methods that capture real-world impact. I’m also fascinated by **creative and open-ended tasks** as manifestations of intelligence: how visual and verbal systems **learn, communicate, and express ideas** across languages and modalities.
 
-I'm a research scientist at [Cohere Labs](https://cohere.com/research), the non-profit research lab of [Cohere](https://cohere.com/), working with [Sara Hooker](https://www.sarahooker.me/) on complex problems and fundamental research in language understanding.
-As a scientist, I’m broadly interested in all aspects of natural language understanding, and particularly in multilingual learning, data-conscious learning, robust and scalable models, compositionality, and evaluation.
 
-Previously I was the NLP/ML research lead at [Zeta Alpha Vector](https://www.zeta-alpha.com/) working on smarter ways to discover and organize knowledge. 
-I did my PhD at the [Language Technology Lab](https://ltl.science.uva.nl/) (originally part of the [ILPS group](https://irlab.science.uva.nl/)), University of Amsterdam, working on developing models to understand and utilize interesting phenomena in the data. 
-During my PhD I was advised by [Christof Monz](https://staff.fnwi.uva.nl/c.monz/index.html) and [Arianna Bisazza](http://www.cs.rug.nl/~bisazza/index.html). I received my B.Sc. from [Sharif University](http://www.en.sharif.edu/) majoring in Computer Engineering and M.Sc. from [University of Tehran](https://ut.ac.ir/en) majoring in Artificial Intelligence.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

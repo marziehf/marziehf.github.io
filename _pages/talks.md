@@ -7,16 +7,33 @@ nav: true
 nav_order: 3
 ---
 
+<details>
+
+<summary>Short Bio for Speaking Engagements</summary>
+
+<br>
+Marzieh Fadaee is the Head of Cohere Labs, where she leads research on fundamental problems in artificial intelligence. Her work spans multilingual language models, data-efficient learning, model evaluation, and trustworthy AI, with a focus on building systems that are robust, inclusive, and globally impactful. She co-leads the Aya initiative that brought together over 3,000 collaborators worldwide to create the world's largest multilingual instruction dataset and the development of a series of state-of-the-art multilingual language and vision models. Before joining Cohere Labs, Marzieh was the Research Lead at Zeta Alpha Vector, where she pioneered innovative approaches to knowledge discovery and organization. She holds a PhD from the University of Amsterdam where she conducted foundational research on neural machine translation. Her research has been published in top venues such as NeurIPS, ACL, EMNLP, and ICLR, and she frequently serves as a mentor and advisor in the global AI research community.
+
+
+</details>
+
 
 ### Upcoming Talks and Events
 <hr>
 
+- Speaker at **Women in AI Research** podcast. Online. Febreury 2026. [[x]](https://women-in-ai-research.github.io/)
+- Keynote talk at **SWORD AI Summit** on *What We Measure Is What We Build: Rethinking Evaluation of LLMs*. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
+- Speaker at **10th INESC TEC Autumn Forum** on *Building Human-Centric Models from Global Voices*. Porto. November 2025.
+- Speaker at **RAISE center at UW**. Online. November 2025.
+- Keynote at **International Summer School in Generative AI**. Rome. June 2026.
 
-- Speaker at **SWORD AI Summit** on *What We Measure Is What We Build: Rethinking Evaluation of LLMs*. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
 
 ### 2025
 <hr>
 
+- Speaker at **AI4ALL summit**. Amsterdam. November 2025.
+- Panelist at **World Summit AI** on *Frontier models: What’s next for the most advanced AI systems?*. Amsterdam. October 2025.
+- Speaker at **Internet Accountability Forum** on *Building Responsible AI for a Global Audience*. Brussels. October 2025. 
 - Talk at **MSR Africa**. Online. July 2025.
 - Speaker at **Cardiff NLP Summer Workshop** on *Rethinking Evaluation for the Future of Language Models*. Cardiff. July 2025. [[x]](https://www.cardiffnlpworkshop.org/)
 - Talk at **BuzzRobot developer community** podcast. Online. June 2025.
