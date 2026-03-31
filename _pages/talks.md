@@ -23,16 +23,17 @@ Marzieh Fadaee is the Head of Cohere Labs, where she leads research on fundament
 ### Upcoming Talks and Events
 <hr>
 
-- Invited talk at **SIAS Lab, University of Amsterdam**. Amsterdam. Febreury 2026.
-- Speaker at **Women in AI Research** podcast. Online. Febreury 2026. [[x]](https://women-in-ai-research.github.io/)
-- Speaker at **World AI Summit**. Febreury 2026.
-- Invited talk at **University of Michigan**. Michigan. March 2026.
-- Keynote at **International Summer School in Generative AI**. Rome. June 2026.
+- Invited talk at **University of Michigan** on *Data Strategies for Language Models: Insights from Multilingual Research*. Michigan. March 2026.
+- Invited speaker at **BLISS** on *What Multilingual Models Reveal About Scale and Balance*. Berlin. June 2026. [[x]](https://www.meetup.com/bliss-speaker-series/)
+- Keynote talk at **International Summer School in Generative AI**. Rome. June 2026.
+- Keynote talk at **World AI Summit**. Amsterdam. October 2026. [[x]](https://worldsummit.ai/)
+- Keynote talk at **AI CONF 2026**. Dushanbe. October 2026. [[x]](https://aiconf2026.com/)
 
 
 ### 2025
 <hr>
 
+- Speaker at multiple events at **World AI Summit**. Febreury 2026.
 - Speaker at **RAISE center at UW** on *How Evaluation Directs AI Progress*. Online. November 2025.
 - Speaker at **10th INESC TEC Autumn Forum** on *Building Human-Centric Models from Global Voices*. Porto. November 2025.
 - Keynote talk at **SWORD AI Summit** on *What We Measure Is What We Build: Rethinking Evaluation of LLMs*. Porto. November 2025. [[x]](https://aisummit.swordhealth.com/)
