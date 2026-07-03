@@ -138,7 +138,7 @@ ninja.data = [{
           title: 'Very proud to release Tiny Aya✨🤏: small enough to run on your phone,...',
           description: "",
           section: "News",},{id: "news-excited-to-launch-a-new-research-direction-future-s-of-work-exploring-how-ai-advancements-will-reshape-the-global-professional-landscape-and-the-way-we-work-across-disciplines-first-paper-here-with-more-to-come",
-          title: 'Excited to launch a new research direction, Future(s) of Work, exploring how AI...',
+          title: 'Excited to launch a new research direction, Future(s) of Work exploring how AI...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
