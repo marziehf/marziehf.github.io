@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+published: false # homepage is now served by the standalone /index.html
 subtitle: <strong>Head of Research</strong> @ <a href='https://cohere.com/research'>Cohere Labs</a>
 
 profile:
