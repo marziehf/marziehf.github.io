@@ -1,0 +1,18 @@
+{% assign current = page.url | replace: 'index.html', '' %}
+<nav class="site-nav" aria-label="Primary">
+  <a class="brand" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+  <ul>
+    {% assign items = site.data.nav %}
+    {% for item in items %}
+      {% assign active = false %}
+      {% if item.url == '/' %}
+        {% if current == '/' %}{% assign active = true %}{% endif %}
+      {% elsif current == item.url or current contains item.url %}
+        {% assign active = true %}
+      {% endif %}
+      <li>
+        <a href="{{ item.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ item.label }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

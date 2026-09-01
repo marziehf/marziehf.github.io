@@ -1,0 +1,40 @@
+# Research highlights shown on the homepage.
+# To add one: copy a block, edit title / summary / body, and list related paper ids from papers.yml.
+
+- title: Multilingual AI
+  summary: Open models and data for the world's languages.
+  body: >
+    Through the Aya initiative, we brought together thousands of collaborators to build
+    open multilingual datasets and models — from Aya Dataset and Aya Model (ACL 2024 Best Paper)
+    to Aya Expanse, Aya Vision, and Tiny Aya. The goal is simple: language models that
+    work for everyone, not just English.
+  papers:
+    - salamanca2026tinyayabridgingscale
+    - ustun-etal-2024-aya
+    - singh-etal-2024-aya
+    - dang2024ayaexpansecombiningresearch
+
+- title: Evaluation
+  summary: What we measure is what we build.
+  body: >
+    Evaluation directs the progress of AI. The Leaderboard Illusion showed how widely used
+    benchmarks can mislead; INCLUDE, Global MMLU, and Kaleidoscope ask whether models
+    actually understand the world's languages and cultures. I am interested in evaluation
+    that captures real-world impact, not just leaderboard scores.
+  papers:
+    - singh2025leaderboardillusion
+    - romanou2025include
+    - singh2024globalmmluunderstandingaddressing
+    - salazar2025kaleidoscopeinlanguageexamsmassively
+
+- title: Data-efficient learning
+  summary: Doing more with less — and with the right data.
+  body: >
+    From data augmentation for low-resource translation to pruning pretraining corpora,
+    a recurring question in my work is which data actually teaches models to generalize.
+    Synthetic data, multilingual transfer, and careful curation are tools for making
+    learning more efficient and more inclusive.
+  papers:
+    - marion2023more
+    - fadaee-bisazza-monz:2017:Short2
+    - yu2024diversifyconquerdiversitycentricdata

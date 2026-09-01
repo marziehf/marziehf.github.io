@@ -1,0 +1,7 @@
+{% assign t = include.talk %}
+<div class="timeline__item">
+<div class="timeline__date">{% if t.when %}{{ t.when }}{% else %}{{ t.year }}{% endif %}</div>
+<div class="timeline__desc">
+{% if t.title %}“<em>{{ t.title }}</em>” @ {% else %}{{ t.role }} @ {% endif %}{% if t.url %}<a href="{{ t.url }}"><strong>{{ t.venue }}</strong></a>{% else %}<strong>{{ t.venue }}</strong>{% endif %}{% if t.location %}, {{ t.location }}{% endif %}{% if t.note %} · {{ t.note }}{% endif %}
+</div>
+</div>

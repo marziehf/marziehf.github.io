@@ -1,0 +1,1403 @@
+- id: 2026.gem-main.0
+  title: 'The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning'
+  authors:
+  - Eduardo Sánchez
+  - Rita Berrada
+  - Dan-Mircea Mirea
+  - Sara Rajaee
+  - Alexander Piperski
+  - Ana Meta Dolinar
+  - Boris Iomdin
+  - Andrey Nikulin
+  - Mariya Shmatova
+  - Marzieh Fadaee
+  - Julia Kreutzer
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2608.18011
+    website: https://huggingface.co/spaces/iol-ai-challenge/iol-ai-2026
+- id: 2026.gem-main.0
+  title: 'The Fifth Workshop on Natural Language Generation, Evaluation, and Metrics (GEM)'
+  authors:
+  - Simon Mille
+  - Sebastian Gehrmann
+  - Patrícia Schmidtová
+  - Ondřej Dušek
+  - Marzieh Fadaee
+  - Kyle Lo
+  - Enrico Santus
+  - Gabriel Stanovsky
+  year: 2026
+  venue: ACL
+  selected: false
+  links:
+    pdf: https://aclanthology.org/2026.gem-main.0.pdf
+    website: https://gem-workshop.com/
+- id: lund2026aiexposurescoresmeasure
+  title: 'AI Exposure Scores: what they measure, what they miss, and what comes next'
+  authors:
+  - Campbell Lund
+  - Thomas Euyang
+  - Zanele Munyikwa
+  - Marzieh Fadaee
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2606.23633
+    website: https://cohere.com/labormap
+    blog: https://cohere.com/blog/the-future-of-work-debate-has-an-evidence-problem
+- id: finlay2026calibercalibratingconfidencereasoning
+  title: 'CALIBER: Calibrating Confidence Before and After Reasoning in Language Models'
+  authors:
+  - Conor Finlay
+  - Joshua Kurien
+  - Saurabh Dash
+  - Marzieh Fadaee
+  - Beyza Ermis
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2606.24281
+- id: schwartz2026circleframeworkevaluatingai
+  title: 'CIRCLE: A Framework for Evaluating AI from a Real-World Lens'
+  authors:
+  - Reva Schwartz
+  - Carina Westling
+  - Morgan Briggs
+  - Marzieh Fadaee
+  - Isar Nejadgholi
+  - Matthew Holmes
+  - Fariza Rashid
+  - Maya Carlyle
+  - Afaf Taïk
+  - Kyra Wilson
+  - Peter Douglas
+  - Theodora Skeadas
+  - Gabriella Waters
+  - Rumman Chowdhury
+  - Thiago Lacerda
+  year: 2026
+  venue: IntelliSys
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2602.24055
+- id: bolton2026simmergelearningselectmerge
+  title: 'SimMerge: Learning to Select Merge Operators from Similarity Signals'
+  authors:
+  - Oliver Bolton
+  - Aakanksha
+  - Arash Ahmadian
+  - Sara Hooker
+  - Marzieh Fadaee
+  - Beyza Ermis
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2601.09473
+- id: dash2026softsverlselfverifiedreinforcementlearning
+  title: 'Soft-SVeRL: Self-Verified Reinforcement Learning with Soft Rewards'
+  authors:
+  - Saurabh Dash
+  - Pierre Clavier
+  - John Dang
+  - Matthias Galle
+  - Marzieh Fadaee
+  - Ahmet Üstün
+  - Beyza Ermis
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2605.28561
+- id: sahu2026culturefunnelcantalign
+  title: 'The Culture Funnel: You Can''t Align What isn''t in the Data'
+  authors:
+  - Ananya Sahu
+  - Mehrnaz Mofakhami
+  - Daniel D'Souza
+  - Thomas Euyang
+  - Julia Kreutzer
+  - Marzieh Fadaee
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2606.13808
+    blog: https://cohere.com/blog/why-cultural-awareness-is-essential-for-global-ai
+- id: salamanca2026tinyayabridgingscale
+  title: 'Tiny Aya: Bridging Scale and Multilingual Depth'
+  authors:
+  - Alejandro R. Salamanca
+  - Diana Abagyan
+  - Daniel D'souza
+  - Ammar Khairi
+  - David Mora
+  - Saurabh Dash
+  - Viraat Aryabumi
+  - Sara Rajaee
+  - Mehrnaz Mofakhami
+  - Ananya Sahu
+  - Thomas Euyang
+  - Brittawnya Prince
+  - Madeline Smith
+  - Hangyu Lin
+  - Acyr Locatelli
+  - Sara Hooker
+  - Tom Kocmi
+  - Aidan Gomez
+  - Ivan Zhang
+  - Phil Blunsom
+  - Nick Frosst
+  - Joelle Pineau
+  - Beyza Ermis
+  - Ahmet Üstün
+  - Julia Kreutzer
+  - Marzieh Fadaee
+  year: 2026
+  venue: COLM
+  selected: true
+  links:
+    pdf: https://arxiv.org/abs/2603.11510
+    website: https://cohere.com/research/aya
+    model: https://huggingface.co/collections/CohereLabs/tiny-aya
+- id: rajaee2026unlockingreasoningcapabilitymachine
+  title: Unlocking Reasoning Capability on Machine Translation in Large Language Models
+  authors:
+  - Sara Rajaee
+  - Sebastian Vincent
+  - Alexandre Berard
+  - Marzieh Fadaee
+  - Kelly Marchisio
+  - Tom Kocmi
+  year: 2026
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2602.14763
+- id: shimabucoro2025posttrainersguidemultilingualtraining
+  title: 'A Post-trainer''s Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics'
+  authors:
+  - Luisa Shimabucoro
+  - Ahmet Ustun
+  - Marzieh Fadaee
+  - Sebastian Ruder
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2504.16677
+- id: dash2025ayavisionadvancingfrontier
+  title: 'Aya Vision: Advancing the Frontier of Multilingual Multimodality'
+  authors:
+  - Saurabh Dash
+  - Yiyang Nan
+  - John Dang
+  - Arash Ahmadian
+  - Shivalika Singh
+  - Madeline Smith
+  - Bharat Venkitesh
+  - Vlad Shmyhlo
+  - Viraat Aryabumi
+  - Walter Beller-Morales
+  - Jeremy Pekmez
+  - Jason Ozuzu
+  - Pierre Richemond
+  - Acyr Locatelli
+  - Nick Frosst
+  - Phil Blunsom
+  - Aidan Gomez
+  - Ivan Zhang
+  - Marzieh Fadaee
+  - Manoj Govindassamy
+  - Sudip Roy
+  - Matthias Gallé
+  - Beyza Ermis
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2505.08751
+    data: https://huggingface.co/collections/CohereLabs/cohere-labs-aya-vision-67c4ccd395ca064308ee1484
+    model: https://huggingface.co/CohereLabs/aya-vision-32b
+- id: cohere2025commandaenterprisereadylarge
+  title: 'Command A: An Enterprise-Ready Large Language Model'
+  authors:
+  - Team Cohere
+  - Aakanksha
+  - Arash Ahmadian
+  - Marwan Ahmed
+  - Jay Alammar
+  - Milad Alizadeh
+  - Yazeed Alnumay
+  - Sophia Althammer
+  - Arkady Arkhangorodsky
+  - Viraat Aryabumi
+  - Dennis Aumiller
+  - Raphaël Avalos
+  - Zahara Aviv
+  - Sammie Bae
+  - Saurabh Baji
+  - Alexandre Barbet
+  - Max Bartolo
+  - Björn Bebensee
+  - Neeral Beladia
+  - Walter Beller-Morales
+  - Alexandre Bérard
+  - Andrew Berneshawi
+  - Anna Bialas
+  - Phil Blunsom
+  - Matt Bobkin
+  - Adi Bongale
+  - Sam Braun
+  - Maxime Brunet
+  - Samuel Cahyawijaya
+  - David Cairuz
+  - Jon Ander Campos
+  - Cassie Cao
+  - Kris Cao
+  - Roman Castagné
+  - Julián Cendrero
+  - Leila Chan Currie
+  - Yash Chandak
+  - Diane Chang
+  - Giannis Chatziveroglou
+  - Hongyu Chen
+  - Claire Cheng
+  - Alexis Chevalier
+  - Justin T. Chiu
+  - Eugene Cho
+  - Eugene Choi
+  - Eujeong Choi
+  - Tim Chung
+  - Volkan Cirik
+  - Ana Cismaru
+  - Pierre Clavier
+  - Henry Conklin
+  - Lucas Crawhall-Stein
+  - Devon Crouse
+  - Andres Felipe Cruz-Salinas
+  - Ben Cyrus
+  - Daniel D'souza
+  - Hugo Dalla-Torre
+  - John Dang
+  - William Darling
+  - Omar Darwiche Domingues
+  - Saurabh Dash
+  - Antoine Debugne
+  - Théo Dehaze
+  - Shaan Desai
+  - Joan Devassy
+  - Rishit Dholakia
+  - Kyle Duffy
+  - Ali Edalati
+  - Ace Eldeib
+  - Abdullah Elkady
+  - Sarah Elsharkawy
+  - Irem Ergün
+  - Beyza Ermis
+  - Marzieh Fadaee
+  - Boyu Fan
+  - Lucas Fayoux
+  - Yannis Flet-Berliac
+  - Nick Frosst
+  - Matthias Gallé
+  - Wojciech Galuba
+  - Utsav Garg
+  - Matthieu Geist
+  - Mohammad Gheshlaghi Azar
+  - Ellen Gilsenan-McMahon
+  - Seraphina Goldfarb-Tarrant
+  - Tomas Goldsack
+  - Aidan Gomez
+  - Victor Machado Gonzaga
+  - Nithya Govindarajan
+  - Manoj Govindassamy
+  - Nathan Grinsztajn
+  - Nikolas Gritsch
+  - Patrick Gu
+  - Shangmin Guo
+  - Kilian Haefeli
+  - Rod Hajjar
+  - Tim Hawes
+  - Jingyi He
+  - Sebastian Hofstätter
+  - Sungjin Hong
+  - Sara Hooker
+  - Tom Hosking
+  - Stephanie Howe
+  - Eric Hu
+  - Renjie Huang
+  - Hemant Jain
+  - Ritika Jain
+  - Nick Jakobi
+  - Madeline Jenkins
+  - JJ Jordan
+  - Dhruti Joshi
+  - Jason Jung
+  - Trushant Kalyanpur
+  - Siddhartha Rao Kamalakara
+  - Julia Kedrzycki
+  - Gokce Keskin
+  - Edward Kim
+  - Joon Kim
+  - Wei-Yin Ko
+  - Tom Kocmi
+  - Michael Kozakov
+  - Wojciech Kryściński
+  - Arnav Kumar Jain
+  - Komal Kumar Teru
+  - Sander Land
+  - Michael Lasby
+  - Olivia Lasche
+  - Justin Lee
+  - Patrick Lewis
+  - Jeffrey Li
+  - Jonathan Li
+  - Hangyu Lin
+  - Acyr Locatelli
+  - Kevin Luong
+  - Raymond Ma
+  - Lukáš Mach
+  - Marina Machado
+  - Joanne Magbitang
+  - Brenda Malacara Lopez
+  - Aryan Mann
+  - Kelly Marchisio
+  - Olivia Markham
+  - Alexandre Matton
+  - Alex McKinney
+  - Dominic McLoughlin
+  - Jozef Mokry
+  - Adrien Morisot
+  - Autumn Moulder
+  - Harry Moynehan
+  - Maximilian Mozes
+  - Vivek Muppalla
+  - Lidiya Murakhovska
+  - Hemangani Nagarajan
+  - Alekhya Nandula
+  - Hisham Nasir
+  - Shauna Nehra
+  - Josh Netto-Rosen
+  - Daniel Ohashi
+  - James Owers-Bardsley
+  - Jason Ozuzu
+  - Dennis Padilla
+  - Gloria Park
+  - Sam Passaglia
+  - Jeremy Pekmez
+  - Laura Penstone
+  - Aleksandra Piktus
+  - Case Ploeg
+  - Andrew Poulton
+  - Youran Qi
+  - Shubha Raghvendra
+  - Miguel Ramos
+  - Ekagra Ranjan
+  - Pierre Richemond
+  - Cécile Robert-Michon
+  - Aurélien Rodriguez
+  - Sudip Roy
+  - Sebastian Ruder
+  - Laura Ruis
+  - Louise Rust
+  - Anubhav Sachan
+  - Alejandro Salamanca
+  - Kailash Karthik Saravanakumar
+  - Isha Satyakam
+  - Alice Schoenauer Sebag
+  - Priyanka Sen
+  - Sholeh Sepehri
+  - Preethi Seshadri
+  - Ye Shen
+  - Tom Sherborne
+  - Sylvie Shang Shi
+  - Sanal Shivaprasad
+  - Vladyslav Shmyhlo
+  - Anirudh Shrinivason
+  - Inna Shteinbuk
+  - Amir Shukayev
+  - Mathieu Simard
+  - Ella Snyder
+  - Ava Spataru
+  - Victoria Spooner
+  - Trisha Starostina
+  - Florian Strub
+  - Yixuan Su
+  - Jimin Sun
+  - Dwarak Talupuru
+  - Eugene Tarassov
+  - Elena Tommasone
+  - Jennifer Tracey
+  - Billy Trend
+  - Evren Tumer
+  - Ahmet Üstün
+  - Bharat Venkitesh
+  - David Venuto
+  - Pat Verga
+  - Maxime Voisin
+  - Alex Wang
+  - Donglu Wang
+  - Shijian Wang
+  - Edmond Wen
+  - Naomi White
+  - Jesse Willman
+  - Marysia Winkels
+  - Chen Xia
+  - Jessica Xie
+  - Minjie Xu
+  - Bowen Yang
+  - Tan Yi-Chern
+  - Ivan Zhang
+  - Zhenyu Zhao
+  - Zhoujie Zhao
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2504.00698
+    blog: https://cohere.com/blog/command-a
+    model: https://huggingface.co/CohereLabs/c4ai-command-a-03-2025
+- id: kocmi-etal-2025-command
+  title: 'Command-A-Translate: Raising the Bar of Machine Translation with Difficulty Filtering'
+  authors:
+  - Tom Kocmi
+  - Arkady Arkhangorodsky
+  - Alexandre Berard
+  - Phil Blunsom
+  - Samuel Cahyawijaya
+  - Théo Dehaze
+  - Marzieh Fadaee
+  - Nicholas Frosst
+  - Matthias Galle
+  - Aidan Gomez
+  - Nithya Govindarajan
+  - Wei-Yin Ko
+  - Julia Kreutzer
+  - Kelly Marchisio
+  - Ahmet Üstün
+  - Sebastian Vincent
+  - Ivan Zhang
+  year: 2025
+  venue: WMT
+  selected: false
+  links:
+    pdf: https://aclanthology.org/2025.wmt-1.55/
+- id: kreutzer2025dejavumultilingualllm
+  title: 'Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation'
+  authors:
+  - Julia Kreutzer
+  - Eleftheria Briakou
+  - Sweta Agrawal
+  - Marzieh Fadaee
+  - Kocmi Tom
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2504.11829
+    code: https://github.com/Cohere-Labs/multilingual-llm-evaluation-checklist
+- id: kocmi-etal-2025-findings-wmt25
+  title: 'Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning,
+    Generation, and Evaluation'
+  authors:
+  - Tom Kocmi
+  - Sweta Agrawal
+  - Ekaterina Artemova
+  - Eleftherios Avramidis
+  - Eleftheria Briakou
+  - Pinzhen Chen
+  - Marzieh Fadaee
+  - Markus Freitag
+  - Roman Grundkiewicz
+  - Yupeng Hou
+  - Philipp Koehn
+  - Julia Kreutzer
+  - Saab Mansour
+  - Stefano Perrella
+  - Lorenzo Proietti
+  - Parker Riley
+  - Eduardo Sánchez
+  - Patricia Schmidtova
+  - Mariya Shmatova
+  - Vilém Zouhar
+  year: 2025
+  venue: WMT
+  selected: false
+  links:
+    pdf: https://aclanthology.org/2025.wmt-1.23/
+- id: rakotonirina2025toolsteammatesevaluatingllms
+  title: 'From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions'
+  authors:
+  - Nathanaël Carraz Rakotonirina
+  - Mohammed Hamdy
+  - Jon Ander Campos
+  - Lucas Weber
+  - Alberto Testoni
+  - Marzieh Fadaee
+  - Sandro Pezzelle
+  - Marco Del Tredici
+  year: 2025
+  venue: ACL
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2502.13791
+    code: https://github.com/Cohere-Labs-Community/MemoryCode
+    data: https://huggingface.co/datasets/CohereLabsCommunity/memorycode
+- id: romanou2025include
+  title: 'INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge'
+  authors:
+  - Angelika Romanou
+  - Negar Foroutan
+  - Anna Sotnikova
+  - Sree Harsha Nelaturu
+  - Shivalika Singh
+  - Rishabh Maheshwary
+  - Micol Altomare
+  - Zeming Chen
+  - Mohamed A. Haggag
+  - Snegha A
+  - Alfonso Amayuelas
+  - Azril Hafizi Amirudin
+  - Danylo Boiko
+  - Michael Chang
+  - Jenny Chim
+  - Gal Cohen
+  - Aditya Kumar Dalmia
+  - Abraham Diress
+  - Sharad Duwal
+  - Daniil Dzenhaliou
+  - Daniel Fernando Erazo Florez
+  - Fabian Farestam
+  - Joseph Marvin Imperial
+  - Shayekh Bin Islam
+  - Perttu Isotalo
+  - Maral Jabbarishiviari
+  - Börje F. Karlsson
+  - Eldar Khalilov
+  - Christopher Klamm
+  - Fajri Koto
+  - Dominik Krzemiński
+  - Gabriel Adriano de Melo
+  - Syrielle Montariol
+  - Yiyang Nan
+  - Joel Niklaus
+  - Jekaterina Novikova
+  - Johan Samir Obando Ceron
+  - Debjit Paul
+  - Esther Ploeger
+  - Jebish Purbey
+  - Swati Rajwal
+  - Selvan Sunitha Ravi
+  - Sara Rydell
+  - Roshan Santhosh
+  - Drishti Sharma
+  - Marjana Prifti Skenduli
+  - Arshia Soltani Moakhar
+  - Bardia soltani moakhar
+  - Ayush Kumar Tarun
+  - Azmine Toushik Wasi
+  - Thenuka Ovin Weerasinghe
+  - Serhan Yilmaz
+  - Mike Zhang
+  - Imanol Schlag
+  - Marzieh Fadaee
+  - Sara Hooker
+  - Antoine Bosselut
+  year: 2025
+  venue: ICLR
+  selected: true
+  links:
+    pdf: https://openreview.net/forum?id=k3gCieTXeY
+    data: https://huggingface.co/datasets/CohereLabs/include-base-44
+- id: salazar2025kaleidoscopeinlanguageexamsmassively
+  title: 'Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation'
+  authors:
+  - Israfel Salazar
+  - Manuel Fernández Burda
+  - Shayekh Bin Islam
+  - Arshia Soltani Moakhar
+  - Shivalika Singh
+  - Fabian Farestam
+  - Angelika Romanou
+  - Danylo Boiko
+  - Dipika Khullar
+  - Mike Zhang
+  - Dominik Krzemiński
+  - Jekaterina Novikova
+  - Luísa Shimabucoro
+  - Joseph Marvin Imperial
+  - Rishabh Maheshwary
+  - Sharad Duwal
+  - Alfonso Amayuelas
+  - Swati Rajwal
+  - Jebish Purbey
+  - Ahmed Ruby
+  - Nicholas Popovič
+  - Marek Suppa
+  - Azmine Toushik Wasi
+  - Ram Mohan Rao Kadiyala
+  - Olga Tsymboi
+  - Maksim Kostritsya
+  - Bardia Soltani Moakhar
+  - Gabriel da Costa Merlin
+  - Otávio Ferracioli Coletti
+  - Maral Jabbari Shiviari
+  - MohammadAmin farahani fard
+  - Silvia Fernandez
+  - María Grandury
+  - Dmitry Abulkhanov
+  - Drishti Sharma
+  - Andre Guarnier De Mitri
+  - Leticia Bossatto Marchezi
+  - Setayesh Heydari
+  - Johan Obando-Ceron
+  - Nazar Kohut
+  - Beyza Ermis
+  - Desmond Elliott
+  - Enzo Ferrante
+  - Sara Hooker
+  - Marzieh Fadaee
+  year: 2025
+  venue: arXiv
+  selected: true
+  links:
+    pdf: https://arxiv.org/abs/2504.07072
+    website: https://cohere.com/research/Kaleidoscope
+    data: https://huggingface.co/datasets/CohereLabs/kaleidoscope
+- id: khairi2025makingtakingbestn
+  title: Making, not Taking, the Best of N
+  authors:
+  - Ammar Khairi
+  - Daniel D'souza
+  - Marzieh Fadaee
+  - Julia Kreutzer
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2510.00931
+- id: derakhshani2025neobabelmultilingualopentower
+  title: 'NeoBabel: A Multilingual Open Tower for Visual Generation'
+  authors:
+  - Mohammad Mahdi Derakhshani
+  - Dheeraj Varghese
+  - Marzieh Fadaee
+  - Cees G. M. Snoek
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2507.06137
+    website: https://neo-babel.github.io/
+    code: https://github.com/mmderakhshani/NeoBabel
+    data: https://huggingface.co/datasets/mderakhshani/NeoBabel-Instruct
+    model: https://huggingface.co/mderakhshani/NeoBabel
+- id: abagyan2025tokenizerruleallemergent
+  title: 'One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers'
+  authors:
+  - Diana Abagyan
+  - Alejandro R. Salamanca
+  - Andres Felipe Cruz-Salinas
+  - Kris Cao
+  - Hangyu Lin
+  - Acyr Locatelli
+  - Marzieh Fadaee
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2026
+  venue: ACL
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2506.10766
+- id: schwartz2025realitychecknewevaluation
+  title: 'Reality Check: A New Evaluation Ecosystem Is Necessary to Understand AI''s Real World Effects'
+  authors:
+  - Reva Schwartz
+  - Rumman Chowdhury
+  - Akash Kundu
+  - Heather Frase
+  - Marzieh Fadaee
+  - Tom David
+  - Gabriella Waters
+  - Afaf Taik
+  - Morgan Briggs
+  - Patrick Hall
+  - Shomik Jain
+  - Kyra Yee
+  - Spencer Thomas
+  - Sundeep Bhandari
+  - Qinghua Lu
+  - Matthew Holmes
+  - Theodora Skeadas
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2505.18893
+- id: undplanguagedata2025scaling
+  title: Scaling Language Data Ecosystems to Drive Industrial Development Growth
+  authors:
+  - United Nations Development Programme
+  year: 2025
+  venue: White paper
+  selected: false
+  links:
+    pdf: https://cdn.prod.website-files.com/66e31d90ea60e260f5ea025f/68546ed270a71196702c0081_Community%20Paper_Final%20for%20AI%20Hub%20Launch%20-%20REVISED%20VERSION%20(1).pdf
+- id: mora2025artaskingmultilingualprompt
+  title: 'The Art of Asking: Multilingual Prompt Optimization for Synthetic Data'
+  authors:
+  - David Mora
+  - Viraat Aryabumi
+  - Wei-Yin Ko
+  - Sara Hooker
+  - Julia Kreutzer
+  - Marzieh Fadaee
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2510.19806
+- id: singh2025leaderboardillusion
+  title: The Leaderboard Illusion
+  authors:
+  - Shivalika Singh
+  - Yiyang Nan
+  - Alex Wang
+  - Daniel D'Souza
+  - Sayash Kapoor
+  - Ahmet Üstün
+  - Sanmi Koyejo
+  - Yuntian Deng
+  - Shayne Longpre
+  - Noah A. Smith
+  - Beyza Ermis
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2025
+  venue: arXiv
+  selected: true
+  links:
+    pdf: https://arxiv.org/abs/2504.20879
+    website: https://cohere.com/research/lmarena
+    video: https://www.youtube.com/watch?v=9W_OhS38rIE
+- id: peppin2025multilingualdivideimpactglobal
+  title: The Multilingual Divide and Its Impact on Global AI Safety
+  authors:
+  - Aidan Peppin
+  - Julia Kreutzer
+  - Alice Schoenauer Sebag
+  - Kelly Marchisio
+  - Beyza Ermis
+  - John Dang
+  - Samuel Cahyawijaya
+  - Shivalika Singh
+  - Seraphina Goldfarb-Tarrant
+  - Viraat Aryabumi
+  - Aakanksha
+  - Wei-Yin Ko
+  - Ahmet Üstün
+  - Matthias Gallé
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2505.21344
+- id: yong2025statemultilingualllmsafety
+  title: 'The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating
+    It'
+  authors:
+  - Zheng-Xin Yong
+  - Beyza Ermis
+  - Marzieh Fadaee
+  - Stephen H. Bach
+  - Julia Kreutzer
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2505.24119
+    data: https://huggingface.co/datasets/CohereLabsCommunity/multilingual_safety_survey2025
+- id: aryabumi2025to
+  title: To Code or Not To Code? Exploring Impact of Code in Pre-training
+  authors:
+  - Viraat Aryabumi
+  - Yixuan Su
+  - Raymond Ma
+  - Adrien Morisot
+  - Ivan Zhang
+  - Acyr Locatelli
+  - Marzieh Fadaee
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2025
+  venue: ICLR
+  selected: false
+  links:
+    pdf: https://openreview.net/forum?id=zSfeN1uAcx
+- id: baack2025bestpracticesopendatasets
+  title: Towards Best Practices for Open Datasets for LLM Training
+  authors:
+  - Stefan Baack
+  - Stella Biderman
+  - Kasia Odrozek
+  - Aviya Skowron
+  - Ayah Bdeir
+  - Jillian Bommarito
+  - Jennifer Ding
+  - Maximilian Gahntz
+  - Paul Keller
+  - Pierre-Carl Langlais
+  - Greg Lindahl
+  - Sebastian Majstorovic
+  - Nik Marda
+  - Guilherme Penedo
+  - Maarten Van Segbroeck
+  - Jennifer Wang
+  - Leandro von Werra
+  - Mitchell Baker
+  - Julie Belião
+  - Kasia Chmielinski
+  - Marzieh Fadaee
+  - Lisa Gutermuth
+  - Hynek Kydlíček
+  - Greg Leppert
+  - EM Lewis-Jong
+  - Solana Larsen
+  - Shayne Longpre
+  - Angela Oduor Lungati
+  - Cullen Miller
+  - Victor Miller
+  - Max Ryabinin
+  - Kathleen Siminyu
+  - Andrew Strait
+  - Mark Surman
+  - Anna Tumadóttir
+  - Maurice Weber
+  - Rebecca Weiss
+  - Lee White
+  - Thomas Wolf
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2501.08365
+- id: gureja2025verificationlimitscodellm
+  title: Verification Limits Code LLM Training
+  authors:
+  - Srishti Gureja
+  - Elena Tommasone
+  - Jingyi He
+  - Sara Hooker
+  - Matthias Gallé
+  - Marzieh Fadaee
+  year: 2025
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2509.20837
+- id: aryabumi2024aya23openweight
+  title: 'Aya 23: Open Weight Releases to Further Multilingual Progress'
+  authors:
+  - Viraat Aryabumi
+  - John Dang
+  - Dwarak Talupuru
+  - Saurabh Dash
+  - David Cairuz
+  - Hangyu Lin
+  - Bharat Venkitesh
+  - Madeline Smith
+  - Jon Ander Campos
+  - Yi Chern Tan
+  - Kelly Marchisio
+  - Max Bartolo
+  - Sebastian Ruder
+  - Acyr Locatelli
+  - Julia Kreutzer
+  - Nick Frosst
+  - Aidan Gomez
+  - Phil Blunsom
+  - Marzieh Fadaee
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2024
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2405.15032
+    model: https://huggingface.co/CohereLabs/aya-23-35B
+- id: singh-etal-2024-aya
+  title: 'Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning'
+  authors:
+  - Shivalika Singh
+  - Freddie Vargus
+  - Daniel D'souza
+  - Börje Karlsson
+  - Abinaya Mahendiran
+  - Wei-Yin Ko
+  - Herumb Shandilya
+  - Jay Patel
+  - Deividas Mataciunas
+  - Laura O'Mahony
+  - Mike Zhang
+  - Ramith Hettiarachchi
+  - Joseph Wilson
+  - Marina Machado
+  - Luisa Moura
+  - Dominik Krzemiński
+  - Hakimeh Fadaei
+  - Irem Ergun
+  - Ifeoma Okoh
+  - Aisha Alaagib
+  - Oshan Mudannayake
+  - Zaid Alyafeai
+  - Vu Chien
+  - Sebastian Ruder
+  - Surya Guthikonda
+  - Emad Alghamdi
+  - Sebastian Gehrmann
+  - Niklas Muennighoff
+  - Max Bartolo
+  - Julia Kreutzer
+  - Ahmet Üstün
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2024
+  venue: ACL
+  selected: true
+  links:
+    pdf: https://aclanthology.org/2024.acl-long.620/
+    data: https://huggingface.co/datasets/CohereLabs/aya_dataset
+- id: dang2024ayaexpansecombiningresearch
+  title: 'Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier'
+  authors:
+  - John Dang
+  - Shivalika Singh
+  - Daniel D'souza
+  - Arash Ahmadian
+  - Alejandro Salamanca
+  - Madeline Smith
+  - Aidan Peppin
+  - Sungjin Hong
+  - Manoj Govindassamy
+  - Terrence Zhao
+  - Sandra Kublik
+  - Meor Amer
+  - Viraat Aryabumi
+  - Jon Ander Campos
+  - Yi-Chern Tan
+  - Tom Kocmi
+  - Florian Strub
+  - Nathan Grinsztajn
+  - Yannis Flet-Berliac
+  - Acyr Locatelli
+  - Hangyu Lin
+  - Dwarak Talupuru
+  - Bharat Venkitesh
+  - David Cairuz
+  - Bowen Yang
+  - Tim Chung
+  - Wei-Yin Ko
+  - Sylvie Shang Shi
+  - Amir Shukayev
+  - Sammie Bae
+  - Aleksandra Piktus
+  - Roman Castagné
+  - Felipe Cruz-Salinas
+  - Eddie Kim
+  - Lucas Crawhall-Stein
+  - Adrien Morisot
+  - Sudip Roy
+  - Phil Blunsom
+  - Ivan Zhang
+  - Aidan Gomez
+  - Nick Frosst
+  - Marzieh Fadaee
+  - Beyza Ermis
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2024
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2412.04261
+    model: https://huggingface.co/CohereLabs/aya-expanse-32b
+    code: https://huggingface.co/collections/CohereLabs/cohere-labs-aya-expanse-671a83d6b2c07c692beab3c3
+- id: ustun-etal-2024-aya
+  title: 'Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model'
+  authors:
+  - Ahmet Üstün
+  - Viraat Aryabumi
+  - Zheng Yong
+  - Wei-Yin Ko
+  - Daniel D'souza
+  - Gbemileke Onilude
+  - Neel Bhandari
+  - Shivalika Singh
+  - Hui-Lee Ooi
+  - Amr Kayid
+  - Freddie Vargus
+  - Phil Blunsom
+  - Shayne Longpre
+  - Niklas Muennighoff
+  - Marzieh Fadaee
+  - Julia Kreutzer
+  - Sara Hooker
+  year: 2024
+  venue: ACL
+  selected: true
+  links:
+    pdf: https://aclanthology.org/2024.acl-long.845/
+    model: https://huggingface.co/CohereLabs/aya-101
+  award: ACL 2024 Best Paper
+- id: ahmadian2024basics
+  title: 'Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in
+    LLMs'
+  authors:
+  - Arash Ahmadian
+  - Chris Cremer
+  - Matthias Gallé
+  - Marzieh Fadaee
+  - Julia Kreutzer
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2024
+  venue: ACL
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2402.14740
+- id: ahmadian-etal-2024-back
+  title: 'Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in
+    LLMs'
+  authors:
+  - Arash Ahmadian
+  - Chris Cremer
+  - Matthias Gallé
+  - Marzieh Fadaee
+  - Julia Kreutzer
+  - Olivier Pietquin
+  - Ahmet Üstün
+  - Sara Hooker
+  year: 2024
+  venue: ACL
+  selected: false
+  links:
+    pdf: https://aclanthology.org/2024.acl-long.662/
+- id: yu2024diversifyconquerdiversitycentricdata
+  title: 'Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement'
+  authors:
+  - Simon Yu
+  - Liangyu Chen
+  - Sara Ahmadian
+  - Marzieh Fadaee
+  year: 2024
+  venue: ICML workshop
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2409.11378
+    code: https://github.com/Cohere-Labs-Community/iterative-data-selection
+- id: boubdir2024elo
+  title: 'Elo Uncovered: Robustness and Best Practices in Language Model Evaluation'
+  authors:
+  - Meriem Boubdir
+  - Edward Kim
+  - Beyza Ermis
+  - Sara Hooker
+  - Marzieh Fadaee
+  year: 2024
+  venue: NeurIPS
+  selected: false
+  links:
+    pdf: https://openreview.net/forum?id=Pc9LLjTL5f
+- id: singh2024globalmmluunderstandingaddressing
+  title: 'Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation'
+  authors:
+  - Shivalika Singh
+  - Angelika Romanou
+  - Clémentine Fourrier
+  - David I. Adelani
+  - Jian Gang Ngui
+  - Daniel Vila-Suero
+  - Peerat Limkonchotiwat
+  - Kelly Marchisio
+  - Wei Qi Leong
+  - Yosephine Susanto
+  - Raymond Ng
+  - Shayne Longpre
+  - Wei-Yin Ko
+  - Madeline Smith
+  - Antoine Bosselut
+  - Alice Oh
+  - Andre F. T. Martins
+  - Leshem Choshen
+  - Daphne Ippolito
+  - Enzo Ferrante
+  - Marzieh Fadaee
+  - Beyza Ermis
+  - Sara Hooker
+  year: 2024
+  venue: ACL
+  selected: true
+  links:
+    pdf: https://arxiv.org/abs/2412.03304
+    data: https://huggingface.co/datasets/CohereLabs/Global-MMLU
+- id: shimabucoro-etal-2024-llm
+  title: 'LLM See, LLM Do: Leveraging Active Inheritance to Target Non-Differentiable Objectives'
+  authors:
+  - Luísa Shimabucoro
+  - Sebastian Ruder
+  - Julia Kreutzer
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2024
+  venue: EMNLP
+  selected: false
+  links:
+    pdf: https://aclanthology.org/2024.emnlp-main.521/
+- id: gureja2024mrewardbenchevaluatingrewardmodels
+  title: 'M-RewardBench: Evaluating Reward Models in Multilingual Settings'
+  authors:
+  - Srishti Gureja
+  - Lester James V. Miranda
+  - Shayekh Bin Islam
+  - Rishabh Maheshwary
+  - Drishti Sharma
+  - Gusti Winata
+  - Nathan Lambert
+  - Sebastian Ruder
+  - Sara Hooker
+  - Marzieh Fadaee
+  year: 2024
+  venue: ACL
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2410.15522
+    code: https://github.com/Cohere-Labs-Community/m-rewardbench
+    data: https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench
+- id: aakanksha2024mixdatamergemodels
+  title: Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning
+  authors:
+  - Aakanksha
+  - Arash Ahmadian
+  - Seraphina Goldfarb-Tarrant
+  - Beyza Ermis
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2024
+  venue: Neurips Wokshop
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2410.10801
+- id: aakanksha-etal-2024-multilingual
+  title: 'The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm'
+  authors:
+  - Aakanksha
+  - Arash Ahmadian
+  - Beyza Ermis
+  - Seraphina Goldfarb-Tarrant
+  - Julia Kreutzer
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2024
+  venue: EMNLP
+  selected: false
+  links:
+    pdf: https://aclanthology.org/2024.emnlp-main.671/
+    data: https://huggingface.co/datasets/CohereLabs/aya_redteaming
+- id: https://doi.org/10.48550/arxiv.2301.01820
+  title: 'InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval'
+  authors:
+  - Vitor Jeronymo
+  - Luiz Bonifacio
+  - Hugo Abonizio
+  - Marzieh Fadaee
+  - Roberto Lotufo
+  - Jakub Zavrel
+  - Rodrigo Nogueira
+  year: 2023
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2301.01820
+- id: marion2023more
+  title: 'When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale'
+  authors:
+  - Max Marion
+  - Ahmet Üstün
+  - Luiza Pozzobon
+  - Alex Wang
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2023
+  venue: arXiv
+  selected: true
+  links:
+    pdf: https://arxiv.org/abs/2309.04564
+- id: boubdir2023prompts
+  title: Which Prompts Make The Difference? Data Prioritization For Efficient Human LLM Evaluation
+  authors:
+  - Meriem Boubdir
+  - Edward Kim
+  - Beyza Ermis
+  - Marzieh Fadaee
+  - Sara Hooker
+  year: 2023
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2310.14424
+- id: https://doi.org/10.48550/arxiv.2212.06121
+  title: In Defense of Cross-Encoders for Zero-Shot Retrieval
+  authors:
+  - Guilherme Rosa
+  - Luiz Bonifacio
+  - Vitor Jeronymo
+  - Hugo Abonizio
+  - Marzieh Fadaee
+  - Roberto Lotufo
+  - Rodrigo Nogueira
+  year: 2022
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2212.06121
+- id: bonifacio2022inpars
+  title: 'InPars: Data Augmentation for Information Retrieval using Large Language Models'
+  authors:
+  - Luiz Henrique Bonifacio
+  - Hugo Abonizio
+  - Marzieh Fadaee
+  - Rodrigo Nogueira
+  year: 2022
+  venue: SIGIR
+  selected: false
+  links:
+    pdf: https://arxiv.org/pdf/2202.05144
+- id: https://doi.org/10.48550/arxiv.2206.02873
+  title: 'No Parameter Left Behind: How Distillation and Model Size Affect Zero-Shot Retrieval'
+  authors:
+  - Guilherme Moraes Rosa
+  - Luiz Bonifacio
+  - Vitor Jeronymo
+  - Hugo Abonizio
+  - Marzieh Fadaee
+  - Roberto Lotufo
+  - Rodrigo Nogueira
+  year: 2022
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/abs/2206.02873
+- id: https://doi.org/10.48550/arxiv.2108.13897
+  title: 'mMARCO: A Multilingual Version of the MS MARCO Passage Ranking Dataset'
+  authors:
+  - Luiz Bonifacio
+  - Vitor Jeronymo
+  - Hugo Queiroz Abonizio
+  - Israel Campiotti
+  - Marzieh Fadaee
+  - Roberto Lotufo
+  - Rodrigo Nogueira
+  year: 2021
+  venue: arXiv
+  selected: false
+  links:
+    pdf: https://arxiv.org/pdf/2108.13897
+    data: https://huggingface.co/datasets/unicamp-dl/mmarco
+- id: fadaee-etal-2020-new
+  title: A New Neural Search and Insights Platform for Navigating and Organizing AI Research
+  authors:
+  - Marzieh Fadaee
+  - Olga Gureenkova
+  - Fernando Rejon Barrera
+  - Carsten Schnober
+  - Wouter Weerkamp
+  - Jakub Zavrel
+  year: 2020
+  venue: SDP
+  selected: false
+  links:
+    pdf: https://www.aclweb.org/anthology/2020.sdp-1.23.pdf
+- id: fadaee-monz-2020-unreasonable
+  title: The Unreasonable Volatility of Neural Machine Translation Models
+  authors:
+  - Marzieh Fadaee
+  - Christof Monz
+  year: 2020
+  venue: WNGT
+  selected: false
+  links:
+    pdf: https://www.aclweb.org/anthology/2020.ngt-1.10.pdf
+- id: mybook
+  title: Understanding and Enhancing the Use of Context for Machine Translation
+  authors:
+  - Marzieh Fadaee
+  year: 2020
+  venue: PhD thesis
+  selected: false
+  links:
+    pdf: https://dare.uva.nl/search?identifier=422122ad-f9d6-4952-9012-fcde9a820773
+- id: D18-1040
+  title: Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation
+  authors:
+  - Marzieh Fadaee
+  - Christof Monz
+  year: 2018
+  venue: EMNLP
+  selected: false
+  links:
+    pdf: http://aclweb.org/anthology/D18-1040.pdf
+- id: 2018arXiv180204681F
+  title: 'Examining the Tip of the Iceberg: A Data Set for Idiom Translation'
+  authors:
+  - Marzieh Fadaee
+  - Arianna Bisazza
+  - Christof Monz
+  year: 2018
+  venue: LREC
+  selected: false
+  links:
+    pdf: https://www.aclweb.org/anthology/L18-1148.pdf
+- id: fadaee-bisazza-monz:2017:Short2
+  title: Data Augmentation for Low-Resource Neural Machine Translation
+  authors:
+  - Marzieh Fadaee
+  - Arianna Bisazza
+  - Christof Monz
+  year: 2017
+  venue: ACL
+  selected: true
+  links:
+    pdf: http://aclweb.org/anthology/P17-2090.pdf
+- id: fadaee-bisazza-monz:2017:Short1
+  title: Learning Topic-Sensitive Word Representations
+  authors:
+  - Marzieh Fadaee
+  - Arianna Bisazza
+  - Christof Monz
+  year: 2017
+  venue: ACL
+  selected: false
+  links:
+    pdf: http://aclweb.org/anthology/P17-2070.pdf
+- id: fadaee2013automatic
+  title: Automatic WordNet Construction Using Markov Chain Monte Carlo
+  authors:
+  - Marzieh Fadaee
+  - Hamidreza Ghader
+  - Heshaam Faili
+  - Azadeh Shakery
+  year: 2013
+  venue: CICLING
+  selected: false
+  links:
+    pdf: https://staff.fnwi.uva.nl/m.fadaee/files/pwn.pdf

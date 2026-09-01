@@ -1,0 +1,400 @@
+speaker_bio: Marzieh Fadaee is the Head of Cohere Labs, where she leads research on fundamental problems
+  in artificial intelligence. Her work spans multilingual language models, data-efficient learning, model
+  evaluation, and trustworthy AI, with a focus on building systems that are robust, inclusive, and globally
+  impactful. She co-leads the Aya initiative that brought together over 3,000 collaborators worldwide
+  to create the world's largest multilingual instruction dataset and the development of a series of state-of-the-art
+  multilingual language and vision models. Before joining Cohere Labs, Marzieh was the Research Lead at
+  Zeta Alpha Vector, where she pioneered innovative approaches to knowledge discovery and organization.
+  She holds a PhD from the University of Amsterdam where she conducted foundational research on neural
+  machine translation. Her research has been published in top venues such as NeurIPS, ACL, EMNLP, and
+  ICLR, and she frequently serves as a mentor and advisor in the global AI research community.
+items:
+- year: 2026
+  upcoming: true
+  role: Invited talk and panel
+  venue: United Nations General Assembly
+  location: New York
+  when: September 2026
+- year: 2026
+  upcoming: true
+  role: Invited talk
+  venue: Global forum on AI and social sciences, London School of Economics
+  location: London
+  when: September 2026
+- year: 2026
+  upcoming: true
+  role: Paper presentation
+  venue: The Intelligent Systems Conference
+  title: "CIRCLE: A Framework for Evaluating AI from a Real-World Lens"
+  location: Amsterdam
+  when: September 2026
+- year: 2026
+  upcoming: false
+  role: Invited talk
+  venue: Apple
+  title: "From Peaks to Distributions: What Multilingual AI Reveals About Evaluation"
+  location: Cupertino, California
+  when: August 2026
+- year: 2026
+  upcoming: true
+  role: Keynote talk
+  venue: World AI Summit
+  location: Amsterdam
+  when: October 2026
+  url: https://worldsummit.ai/
+- year: 2026
+  upcoming: true
+  role: Keynote talk
+  venue: AI CONF 2026
+  location: Dushanbe
+  when: October 2026
+  url: https://aiconf2026.com/
+- year: 2026
+  upcoming: false
+  role: Keynote talk
+  venue: International Summer School in Generative AI
+  title: Evaluation of AI Systems
+  location: Rome
+  when: June 2026
+  url: https://intelligent-systems.net/school/
+- year: 2026
+  upcoming: false
+  role: Invited speaker
+  venue: BLISS
+  title: What Multilingual Models Reveal About Scale and Balance
+  location: Berlin
+  when: May 2026
+  url: https://www.meetup.com/bliss-speaker-series/
+- year: 2026
+  upcoming: false
+  role: Invited talk
+  venue: University of Michigan
+  title: 'Data Strategies for Language Models: Insights from Multilingual Research'
+  location: Michigan
+  when: April 2026
+- year: 2026
+  upcoming: false
+  role: Speaker at multiple events
+  venue: AI Impact Summit
+  location: New Delhi
+  when: February 2026
+  url: https://impact.indiaai.gov.in/
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: RAISE center at UW
+  title: How Evaluation Directs AI Progress
+  location: Online
+  when: November 2025
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: 10th INESC TEC Autumn Forum
+  title: Building Human-Centric Models from Global Voices
+  location: Porto
+  when: November 2025
+- year: 2025
+  upcoming: false
+  role: Keynote talk
+  venue: SWORD AI Summit
+  title: 'What We Measure Is What We Build: Rethinking Evaluation of LLMs'
+  location: Porto
+  when: November 2025
+  url: https://aisummit.swordhealth.com/
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: AI4ALL summit
+  location: Amsterdam
+  when: November 2025
+- year: 2025
+  upcoming: false
+  role: Panelist
+  venue: World Summit AI
+  title: 'Frontier models: What’s next for the most advanced AI systems?'
+  location: Amsterdam
+  when: October 2025
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: Internet Accountability Forum
+  title: Building Responsible AI for a Global Audience
+  location: Brussels
+  when: October 2025
+- year: 2025
+  upcoming: false
+  role: Talk
+  venue: MSR Africa
+  location: Online
+  when: July 2025
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: Cardiff NLP Summer Workshop
+  title: Rethinking Evaluation for the Future of Language Models
+  location: Cardiff
+  when: July 2025
+  url: https://www.cardiffnlpworkshop.org/
+- year: 2025
+  upcoming: false
+  role: Talk
+  venue: BuzzRobot developer community podcast
+  location: Online
+  when: June 2025
+- year: 2025
+  upcoming: false
+  role: Keynote talk
+  venue: Copenhagen NLP Symposium
+  title: 'Evaluating Language Models: A Mirror, a Microscope, and a Map'
+  location: Copenhagen
+  when: June 2025
+  url: https://cphnlp.github.io/
+- year: 2025
+  upcoming: false
+  role: Panelist
+  venue: DALI Sorrento
+  title: LLMs for social impact workshop
+  location: Sorrento
+  when: April 2025
+  url: https://dalimeeting.org/sorrento2025/
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: DALI Sorrento
+  title: The Unscientific Science of AI Evaluation
+  location: Sorrento
+  when: April 2025
+  url: https://dalimeeting.org/sorrento2025/
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: Advanced Language Processing School (ALPS)
+  title: 'Languages as Windows to Human Knowledge: Building Better Language Models Through Global Understanding'
+  location: Aussois
+  when: April 2025
+  url: https://lig-alps.imag.fr/index.php/speakers/
+- year: 2025
+  upcoming: false
+  role: Panelist
+  venue: Google Gemma Developer Day
+  title: The importance of open models
+  location: Paris
+  when: March 2025
+  url: https://rsvp.withgoogle.com/events/gemma-dev-day-paris/speakers
+- year: 2025
+  upcoming: false
+  role: Speaker
+  venue: Open Institute of Technology
+  title: Building the Next Generation of Multilingual Language Models
+  location: Amsterdam
+  when: March 2025
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: OnDeck ML Research, NeurIPS
+  title: Charting the Future of Multilingual Models
+  location: Vancouver
+  when: December 2024
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: Local Language Partnerships Accelerator Pilot, UNDP
+  location: Online
+  when: November 2024
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: University of Tehran
+  title: ساخت نسل بعدی مدل‌های چندزبانه
+  location: Online
+  when: November 2024
+- year: 2024
+  upcoming: false
+  role: Panelist
+  venue: Kaggle AMA
+  location: Online
+  when: October 2024
+- year: 2024
+  upcoming: false
+  role: Panelist
+  venue: Nordic Data Science & ML Summit
+  title: 'Building the Future of AI: Scaling Foundation Models and Agents for Real-World Applications'
+  location: Stockholm
+  when: October 2024
+  url: https://ndsmlsummit.com/speakers/
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: Understanding Deep Learning Lecture Series
+  title: 'Multilingual language models: Benefits and Barriers'
+  location: Online
+  when: October 2024
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: UKP-CIS Joint Invited Talk Series
+  title: Building the Next Generation of Multilingual Models
+  location: Online
+  when: October 2024
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: Sharif University LLM Journal Club
+  title: 'مدل های زبانی چند زبانه: چرا و چگونه'
+  location: Online
+  when: October 2024
+  url: https://www.youtube.com/watch?v=rPeeNwoBZEg
+- year: 2024
+  upcoming: false
+  role: Keynote talk
+  venue: PyData Amsterdam
+  title: 'The Art of Language: Mastering Multilingual Challenges in LLMs'
+  location: Amsterdam
+  when: September 2024
+  url: https://www.youtube.com/watch?v=pQgMUhaeuxA
+- year: 2024
+  upcoming: false
+  role: Speaker
+  venue: United Nations Development Programme
+  title: AI and digitizing low-resource languages
+  location: Online
+  when: August 2024
+  url: https://x.com/UNDP
+- year: 2024
+  upcoming: false
+  role: Interview
+  venue: Max Welling
+  title: C4AI Fireside Chat series
+  location: Online
+  when: July 2024
+  url: https://www.youtube.com/watch?v=4I09wBeP-GI&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk
+- year: 2024
+  upcoming: false
+  role: Keynote talk
+  venue: SlaterCon
+  title: 'Aya: A massively multilingual dataset and language model'
+  location: Online
+  when: March 2024
+  url: https://slator.com/event/slatorcon-remote-march-2024/
+- year: 2024
+  upcoming: false
+  role: Interview
+  venue: Mirella Lapata
+  title: C4AI Fireside Chat series
+  location: Online
+  when: March 2024
+  url: https://www.youtube.com/watch?v=6TS_ZetD3HY&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk
+- year: 2024
+  upcoming: false
+  role: Tutorial
+  venue: AAAI
+  title: Aligning Large Language Models to Low-Resource Languages
+  location: Vancouver
+  when: February 2024
+  url: https://aaai.org/aaai-conference/aaai-24-tutorial-and-lab-list/#tq11
+- year: 2024
+  upcoming: false
+  role: Interview
+  venue: Jacob Andreas
+  title: C4AI Fireside Chat series
+  location: Online
+  when: January 2024
+  url: https://www.youtube.com/watch?v=bAxqt5DybPE&list=PLLalUvky4CLLN4XmiJJ4dBBhqRKmkxRYk
+- year: 2023
+  upcoming: false
+  role: Guest lecture
+  venue: Leiden University
+  location: Leiden
+  when: November 2023
+- year: 2023
+  upcoming: false
+  role: Invited talk
+  venue: Toronto Data Workshop
+  title: 'AYA: An Open Science Initiative to Accelerate Multilingual AI Progress'
+  location: Toronto
+  when: '2023'
+  url: https://www.youtube.com/watch?v=kVOKtJ8ZTgI
+- year: 2023
+  upcoming: false
+  role: Invited talk
+  venue: ELLIS Symposium on Large Language and Foundation Models
+  location: Amsterdam
+  when: '2023'
+  url: https://sites.google.com/view/ellisfms2023/
+- year: 2023
+  upcoming: false
+  role: Invited talk
+  venue: Schwartz Reisman Institute Seminar Series
+  title: 'Mastering language understanding with AI: How multilingualism shapes LLMs'
+  location: Online
+  when: '2023'
+  url: https://www.youtube.com/watch?v=qTR2J7sNXK8
+- year: 2023
+  upcoming: false
+  role: Invited talk
+  venue: Women in AI Summit
+  location: Amsterdam
+  when: '2023'
+  note: a nominee in Top 5 AI researcher category
+  url: https://womeninai.nl/2023/11/08/wai-summit-top-5-award-nominees/
+- year: 2023
+  upcoming: false
+  role: Panelist
+  venue: The Turing Way's Fireside Chat
+  title: Who is building open source AI?
+  location: Online
+  when: '2023'
+  url: https://www.youtube.com/watch?v=e8EBI1ocxt4
+- year: 2023
+  upcoming: false
+  role: Talk
+  venue: ACL Mentorship
+  title: 'When life happens: How to navigate challenging times in research?'
+  location: Online
+  when: '2023'
+  url: https://www.youtube.com/watch?v=g59P3YiqRxU
+- year: 2022
+  upcoming: false
+  role: Guest
+  venue: Neural Search Talks podcast
+  title: Generating Training Data with Large Language Models
+  location: Online
+  when: '2022'
+  url: https://www.youtube.com/watch?v=MlxZI_bFD8U&t=2350s
+- year: 2022
+  upcoming: false
+  role: Talk
+  venue: Transformers at Work III
+  title: 'From Transformers to work: advances in semantic search'
+  location: Amsterdam
+  when: '2022'
+  url: https://www.youtube.com/watch?v=iHjiW0kRy3s&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=3&t=5s
+- year: 2021
+  upcoming: false
+  role: Talk
+  venue: Transformers at Work II
+  title: 'The power of semantic search: how and why?'
+  location: Amsterdam
+  when: '2021'
+  url: https://www.youtube.com/watch?v=a6JVtQIJFD8&list=PLqoeA19j2q9iV3VIlmu2rk7r247zjvUM9&index=12
+- year: 2020
+  upcoming: false
+  role: Talk
+  venue: Transformers at Work I
+  location: Amsterdam
+  when: '2020'
+- year: 2018
+  upcoming: false
+  role: Invited talk
+  venue: CL Seminar Series, ILLC (University of Amsterdam)
+  title: The impact of context on machine translation models
+  location: Amsterdam
+  when: '2018'
+  url: https://projects.illc.uva.nl/LaCo/CLS/
+- year: 2018
+  upcoming: false
+  role: Invited talk
+  venue: Machine Learning meetup
+  title: The impact of context on machine translation models
+  location: Amsterdam Politie, Amsterdam
+  when: '2018'

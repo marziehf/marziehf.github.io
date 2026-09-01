@@ -1,0 +1,60 @@
+# Press and media. Newest first; the page groups by year.
+- date: 2026-08-6
+  outlet: University of Waterloo
+  title: 'Cohere and the University of Waterloo partner to prepare students to lead AI transformation work'
+  url: https://uwaterloo.ca/news/partnering-lead-ai-transformation-across-organizations
+
+- date: 2026-02-17
+  outlet: MarkTechPost
+  title: 'Cohere Releases Tiny Aya: A 3B-Parameter Small Language Model that Supports 70 Languages and Runs Locally Even on a Phone'
+  url: https://www.marktechpost.com/2026/02/17/cohere-releases-tiny-aya-a-3b-parameter-small-language-model-that-supports-70-languages-and-runs-locally-even-on-a-phone/
+
+- date: 2026-02-17
+  outlet: BetaKit
+  title: 'From Amharic to Zulu: Cohere’s new multilingual AI model supports more than 70 languages'
+  url: https://betakit.com/from-amharic-to-zulu-coheres-new-multilingual-ai-model-supports-more-than-70-languages/
+
+- date: 2026-02-04
+  outlet: University of Amsterdam
+  title: 'An inclusive AI image generator for non-English speakers'
+  url: https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2026/02/an-inclusive-ai-image-generator-for-non-english-speakers.html
+
+- date: 2025-09-05
+  outlet: BetaKit
+  title: 'Marzieh Fadaee promoted to head of Cohere Labs'
+  url: https://betakit.com/marzieh-fadaee-will-head-cohere-labs/
+
+- date: 2024-10-24
+  outlet: VentureBeat
+  title: Cohere launches new AI models to bridge global language divide
+  url: https://venturebeat.com/infrastructure/cohere-launches-new-ai-models-to-bridge-global-language-divide
+
+- date: 2024-06-06
+  outlet: Slator
+  title: 10 Large Language Models That Matter to the Language Industry
+  url: https://slator.com/10-large-language-models-that-matter-to-the-language-industry/
+
+- date: 2025-05-16
+  outlet: thesequence
+  title: 'The Leaderboard Illusion Challenges Chatbot Arena Type Benchmarks'
+  url: https://thesequence.substack.com/p/the-sequence-research-543-the-leaderboard
+
+- date: 2025-05-2
+  outlet: computerworld
+  title: 'Leaderboard illusion: How big tech skewed AI rankings on Chatbot Arena'
+  url: https://www.computerworld.com/article/3976355/leaderboard-illusion-how-big-tech-skewed-ai-rankings-on-chatbot-arena.html
+
+- date: 2024-05-24
+  outlet: Voicebot
+  title: Cohere Releases Multilingual Aya 23 LLMs as Open Model in 23 Languages
+  url: https://voicebot.ai/2024/05/24/cohere-releases-multilingual-aya-23-llms-as-open-model-in-23-languages/
+
+- date: 2024-02-13
+  outlet: SiliconANGLE
+  title: Cohere for AI unveils Aya, a multilingual open-source AI with 101 languages
+  url: https://siliconangle.com/2024/02/13/cohere-ai-unveils-aya-multilingual-open-source-ai-101-languages/
+
+- date: 2020-06-03
+  outlet: Slator
+  title: Researchers Explore Surprising Behavior of Machine Translation
+  url: https://slator.com/researchers-explore-surprising-behavior-of-machine-translation/

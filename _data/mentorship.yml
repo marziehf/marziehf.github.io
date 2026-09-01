@@ -1,0 +1,89 @@
+intro: I supervise (and co-supervise) research scholars and graduate students, and I mentor through community programs that support researchers across languages and backgrounds.
+
+programs:
+  - Deep Learning Indaba Mentorship Programme
+  - ACL year-round mentorship program
+  - Iranian women in computing peer mentorship
+  - Women in AI Netherlands mentorship program
+
+supervision:
+  - year: "2026"
+    name: Campbell Lund
+    initials: CL
+    role: C4AI
+    topic: Now at Cohere Labs
+  - year: "2025"
+    name: Srishti Gureja
+    initials: SG
+    role: C4AI
+    topic: Now at Spar
+  - year: "2025"
+    name: David Mora
+    initials: DM
+    role: C4AI
+    topic: Now at Cohere  
+  - year: "2025"
+    name: Aakanksha
+    initials: A
+    role: C4AI
+    topic: Now at Cohere
+  - year: "2024"
+    name: Luísa Shimabucoro
+    initials: LS
+    role: C4AI
+    topic: Now at Stanford
+  - year: "2023"
+    name: Arash Ahmadian
+    initials: AA
+    role: C4AI
+    topic: Now at Google
+  - year: "2023"
+    name: Meriem Boubdir
+    initials: MB
+    role: C4AI
+    topic: Now at Nvidia
+  - year: "2023"
+    name: Max Marion
+    initials: MM
+    role: C4AI
+    topic: Now at Tacit labs
+  - year: "2020"
+    name: Sergi Castella Sapé
+    initials: SC
+    role: UvA
+    topic: Now at eBay
+  - year: "2020"
+    name: Ioannis Tsiamas
+    initials: IT
+    role: UvA
+    topic: Now at Meta
+  - year: "2020"
+    name: Ragger Jonkers
+    initials: RJ
+    role: UvA
+    topic: Now at NLR
+
+service:
+  - ICLR, ICML, NeurIPS, AAAI, IEEE TAI
+  - ACL, EMNLP, ACL Rolling Review, NAACL, EACL, ACL-IJCNLP
+  - WMT, ECNLP, TDS, IKT, SustaiNLP, ASOC, NLP-OSS
+
+teaching:
+  - year: "2017"
+    course: Applied Language Technology
+    where: Masters Artificial Intelligence, University of Amsterdam
+  - year: "2016"
+    course: Applied Language Technology
+    where: Masters Artificial Intelligence, University of Amsterdam
+  - year: "2015"
+    course: Data Mining
+    where: Bachelors Information Science, University of Amsterdam
+  - year: "2013"
+    course: Natural Language Processing
+    where: Masters Artificial Intelligence, University of Tehran
+  - year: "2012"
+    course: Pattern Recognition
+    where: Masters Artificial Intelligence, University of Tehran
+  - year: "2011"
+    course: Advanced Algorithms
+    where: Masters Artificial Intelligence, University of Tehran

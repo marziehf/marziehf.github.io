@@ -1,0 +1,5 @@
+<div class="socials">
+  {% for s in site.socials %}
+    <a href="{{ s.url }}"{% unless s.url contains 'mailto:' %} rel="noopener"{% endunless %}>{{ s.name }}</a>
+  {% endfor %}
+</div>

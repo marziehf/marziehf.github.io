@@ -1,0 +1,12 @@
+- label: About
+  url: /
+- label: Papers
+  url: /papers/
+- label: Talks
+  url: /talks/
+- label: In the news
+  url: /in-the-news/
+- label: Mentorship
+  url: /mentorship/
+- label: Blog
+  url: /blog/
