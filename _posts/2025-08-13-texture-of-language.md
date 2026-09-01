@@ -2,28 +2,24 @@
 layout: post
 title: I. The Texture of Language
 date: 2025-08-13 15:06:00
-description: 
-tags: language, intelligence
-categories: 
-citation: false
+description: Language is less like a pipeline and more like a lens.
+tags: language intelligence
 ---
-
 
 Language is often treated as a vessel that carries thoughts unchanged from one mind to another. But this view misses something fundamental. Language is less like a pipeline and more like a lens, actively shaping and refracting the ideas that pass through it. Understanding this distinction is crucial as we navigate an era where artificial intelligence increasingly mirrors our own linguistic patterns.
 
 When two people describe the same event in different languages, they don't simply use different words, they construct subtly different realities. This happens because language influences not just how we express ideas, but how those ideas form in the first place. Each language encodes different defaults about what must be said, what can remain implicit, and what is considered obvious. These structural differences shape cognition itself.
 Even languages with similar grammar diverge in their underlying assumptions. What one language treats as essential information, another considers redundant. What one foregrounds, another backgrounds. These aren't mere translation challenges, they're windows into fundamentally different ways of organizing thought.
 
-
 Human communication operates through multiple channels simultaneously. A single utterance draws on syntax and semantics, yes, but also on tone, gesture, shared history, and cultural frames of reference. These elements rarely translate cleanly across linguistic boundaries, which is why even sophisticated translation remains an interpretive art rather than a mechanical process.
 At its core, language functions as a cognitive operating system. It compresses complex thoughts into manageable forms, enables analogies to bridge disparate domains, and allows patterns to persist in memory long after their original context fades. This compression isn't neutral, it actively shapes what we notice, how we reason, and what we can imagine.
 
-<div class="row mt-3 text-center">
-    {% include figure.liquid loading="eager" path="assets/img/blog/spaceexpo.jpg" class="img-fluid rounded z-depth-1 mx-auto" width="70%" %}
-</div>
-<div class="caption">
-    A wall of Comics at <a href="https://www.space-expo.nl/" target="_blank" rel="noopener noreferrer">the Space Expo</a>. Comic strips about space began as entertainment, yet they reveal a deeper cognitive drive: to explore, imagine, and model worlds beyond our own. The same mechanisms that let us play with language, typography, and visual storytelling (<em>abstraction, analogy,</em> and <em>recombination</em>) may underlie both human intelligence and our tools for extending it.
-</div>
+<figure>
+  <img src="{{ '/assets/img/blog/spaceexpo.jpg' | relative_url }}" alt="A wall of comics at the Space Expo">
+  <figcaption>
+    A wall of comics at <a href="https://www.space-expo.nl/">the Space Expo</a>. Comic strips about space began as entertainment, yet they reveal a deeper cognitive drive: to explore, imagine, and model worlds beyond our own. The same mechanisms that let us play with language, typography, and visual storytelling (<em>abstraction, analogy,</em> and <em>recombination</em>) may underlie both human intelligence and our tools for extending it.
+  </figcaption>
+</figure>
 
 Analogy plays a particularly crucial role in this system. Just as a well-chosen metaphor can illuminate a complex concept instantly, analogical reasoning allows minds to repurpose existing cognitive structures for new problems. Language serves as the medium that makes these analogies transmissible carrying them across individuals, cultures, and now, artificial systems.
 The visual dimension amplifies this process. Diagrams, sketches, and even the spatial arrangement of text can fundamentally alter understanding. The same concept presented as dense prose versus elegant visualization often feels like encountering two entirely different ideas. Effective visualization doesn't merely display information; it reshapes how that information can be reasoned about.
@@ -36,7 +32,6 @@ The better we understand this terrain, the more effectively we can chart paths t
 
 This raises a more intriguing possibility about intelligence itself: if language shapes what we can think, does it also limit what we can discover? There's an old intuition that you can't truly understand something until you can name it, but what if the reverse is equally true? What if the boundaries of our language quietly become the boundaries of what we're able to explore, build, or even recognize as problems worth solving?
 
-
 ---
 
-<strong>Author's Note:</strong> This series is the result of a continuous inspiration by the works of Douglas Hofstadter and Edward Tufte.
+**Author's Note:** This series is the result of a continuous inspiration by the works of Douglas Hofstadter and Edward Tufte.
