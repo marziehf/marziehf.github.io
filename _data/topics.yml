@@ -1,0 +1,17 @@
+# Topic tabs on /papers/. Order here is tab order.
+# Tag papers in papers.yml with the matching `id` values (a paper can have several).
+
+- id: multilingual
+  label: Multilingual
+- id: evaluation
+  label: Evaluation
+- id: data
+  label: Data
+- id: training
+  label: Training
+- id: society
+  label: Society & policy
+- id: alignment
+  label: Alignment
+- id: retrieval
+  label: Retrieval
