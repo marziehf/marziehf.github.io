@@ -1,0 +1,7 @@
+{% assign book = include.book %}
+<li class="book{% if book.for_everyone %} book--everyone{% endif %}">
+{% if book.url %}
+<span class="book-title"><a href="{{ book.url }}">{{ book.title }}</a></span>{% else %}
+<span class="book-title">{{ book.title }}</span>{% endif %}{% if book.author %}<span class="book-author">, {{ book.author }}</span>{% endif %}{% if book.year %} <span class="book-year">({{ book.year }})</span>{% endif %}{% if book.for_everyone %} <span class="book-everyone">for everyone</span>{% endif %}
+{% if book.note %}<p class="book-note">{{ book.note }}</p>{% endif %}
+</li>

@@ -1,0 +1,216 @@
+# Books. Set for_everyone: true for the ones you press into people's hands.
+
+items:
+  - title: The Planets
+    author: Andrew Cohen with Brian Cox
+    year: 2019
+  - title: The Universe
+    author: Andrew Cohen with Brian Cox
+    year: 2021
+  - title: "Complexity: A Guided Tour"
+    author: Melanie Mitchell
+    year: 2009
+  - title: "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+    author: Brian Greene
+    year: 1999
+  - title: "The Gene: An Intimate History"
+    author: Siddhartha Mukherjee
+    year: 2016
+  - title: "Chaos: Making a New Science"
+    author: James Gleick
+    year: 1987
+  - title: Cosmos
+    author: Carl Sagan
+    year: 1980
+  - title: "The Information: A History, a Theory, a Flood"
+    author: James Gleick
+    year: 2011
+  - title: "Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher"
+    author: Richard Feynman
+    year: 1994
+  - title: "Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time"
+    author: Richard Feynman
+    year: 1997
+  - title: "Infinite Powers: How Calculus Reveals the Secrets of the Universe"
+    author: Steven Strogatz
+    year: 2019
+  - title: "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness"
+    author: Peter Godfrey-Smith
+    year: 2016
+  - title: "Metazoa: Animal Life and the Birth of the Mind"
+    author: Peter Godfrey-Smith
+    year: 2020
+  - title: "Supersizing the Mind: Embodiment, Action, and Cognitive Extension"
+    author: Andy Clark
+    year: 2008
+  - title: "The Embodied Mind: Cognitive Science and Human Experience"
+    author: Francisco J. Varela, Evan Thompson, Eleanor Rosch
+    year: 1991
+  - title: I Am a Strange Loop
+    author: Douglas Hofstadter
+    year: 2007
+  - title: "The Mind's I: Fantasies and Reflections on Self and Soul"
+    author: Douglas Hofstadter and Daniel Dennett
+    year: 1981
+  - title: "Gödel, Escher, Bach: An Eternal Golden Braid"
+    author: Douglas Hofstadter
+    year: 1979
+  - title: "Surfaces and Essences: Analogy as the Fuel and Fire of Thinking"
+    author: Douglas Hofstadter and Emmanuel Sander
+    year: 2013
+  - title: "In Pursuit of the Unknown: 17 Equations That Changed the World"
+    author: Ian Stewart
+    year: 2012
+  - title: History of Information Graphics
+    author: Sandra Rendgen
+    year: 2019
+  - title: "Cosmigraphics: Picturing Space Through Time"
+    author: Michael Benson
+    year: 2014
+  - title: Knowledge Is Beautiful
+    author: David McCandless
+    year: 2014
+  - title: "Seeing with Fresh Eyes: Meaning, Space, Data, Truth"
+    author: Edward Tufte
+    year: 2020
+  - title: "Visual Explanations: Images and Quantities, Evidence and Narrative"
+    author: Edward Tufte
+    year: 1997
+  - title: Beautiful Evidence
+    author: Edward Tufte
+    year: 2006
+  - title: Envisioning Information
+    author: Edward Tufte
+    year: 1990
+  - title: The Visual Display of Quantitative Information
+    author: Edward Tufte
+    year: 1983
+  - title: "Semiology of Graphics: Diagrams, Networks, Maps"
+    author: Jacques Bertin
+    year: 1967
+  - title: "Thinking with Type: A Critical Guide for Designers, Writers, Editors, & Students"
+    author: Ellen Lupton
+    year: 2004
+  - title: The Craft of Research
+    author: Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams
+    year: 1995
+  - title: Culture and Imperialism
+    author: Edward W. Said
+    year: 1993
+  - title: Orientalism
+    author: Edward W. Said
+    year: 1978
+  - title: "Women, Fire, and Dangerous Things: What Categories Reveal about the Mind"
+    author: George Lakoff
+    year: 1987
+  - title: The Structure of Scientific Revolutions
+    author: Thomas S. Kuhn
+    year: 1962
+  - title: "Conjectures and Refutations: The Growth of Scientific Knowledge"
+    author: Karl Popper
+    year: 1963
+  - title: "The Language Instinct: How the Mind Creates Language"
+    author: Steven Pinker
+    year: 1994
+  - title: On Language
+    author: Noam Chomsky
+    year: 1998
+  - title: Metaphors We Live By
+    author: George Lakoff and Mark Johnson
+    year: 1980
+  - title: The Cultural Origins of Human Cognition
+    author: Michael Tomasello
+    year: 1999
+  - title: "Constructing a Language: A Usage-Based Theory of Language Acquisition"
+    author: Michael Tomasello
+    year: 2003
+  - title: "The Unfolding of Language: An Evolutionary Tour of Mankind's Greatest Invention"
+    author: Guy Deutscher
+    year: 2005
+  - title: "Through the Language Glass: Why the World Looks Different in Other Languages"
+    author: Guy Deutscher
+    year: 2010
+  - title: "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI"
+    author: Karen Hao
+    year: 2025
+  - title: "Four Futures: Life After Capitalism"
+    author: Peter Frase
+    year: 2016
+  - title: "Artificial Intelligence: A Guide for Thinking Humans"
+    author: Melanie Mitchell
+    year: 2019
+  - title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
+    author: Cathy O’Neil
+    year: 2016
+  - title: Data Feminism
+    author: Catherine D’Ignazio and Lauren F. Klein
+    year: 2020
+  - title: "Algorithms to Live By: The Computer Science of Human Decisions"
+    author: Brian Christian and Tom Griffiths
+    year: 2016
+  - title: "The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive"
+    author: Brian Christian
+    year: 2011
+  - title: "Against Method: Outline of an Anarchistic Theory of Knowledge"
+    author: Paul Feyerabend
+    year: 1975
+  - title: "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
+    author: Randall Munroe
+    year: 2014
+  - title: "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions"
+    author: Randall Munroe
+    year: 2022
+  - title: "How To: Absurd Scientific Advice for Common Real-World Problems"
+    author: Randall Munroe
+    year: 2019
+  - title: "Thing Explainer: Complicated Stuff in Simple Words"
+    author: Randall Munroe
+    year: 2015
+  - title: The Book of General Ignorance
+    author: John Lloyd and John Mitchinson
+    year: 2006
+  - title: "Why Greatness Cannot Be Planned: The Myth of the Objective"
+    author: Kenneth O. Stanley and Joel Lehman
+    year: 2015
+  - title: The Origins of Efficiency
+    author: Brian Potter
+    year: 2025
+  - title: "Boom: Bubbles and the End of Stagnation"
+    author: Byrne Hobart and Tobias Huber
+    year: 2024
+  - title: "Maintenance: Of Everything, Part One"
+    author: Stewart Brand
+    year: 2026
+  - title: "The Art of Doing Science and Engineering: Learning to Learn"
+    author: Richard Hamming
+    year: 1996
+  - title: "The Scaling Era: An Oral History of AI, 2019–2025"
+    author: Dwarkesh Patel with Gavin Leech
+    year: 2025
+  - title: "Thinking in Systems: A Primer"
+    author: Donella H. Meadows
+    year: 2008
+  - title: "QED: The Strange Theory of Light and Matter"
+    author: Richard Feynman
+    year: 1985
+  - title: The Logic of Scientific Discovery
+    author: Karl Popper
+    year: 1959
+  - title: Philosophical Investigations
+    author: Ludwig Wittgenstein
+    year: 1953
+  - title: Ways of Seeing
+    author: John Berger
+    year: 1972
+  - title: The Poetics of Space
+    author: Gaston Bachelard
+    year: 1958
+  - title: On Photography
+    author: Susan Sontag
+    year: 1977
+  - title: Regarding the Pain of Others
+    author: Susan Sontag
+    year: 2003
+  - title: "Why Only Us: Language and Evolution"
+    author: Robert C. Berwick and Noam Chomsky
+    year: 2016
