@@ -13,6 +13,7 @@ A small Jekyll site. Edit YAML and markdown, then push to `main`.
 | Talks | `_data/talks.yml` — add an item under `items` |
 | Press / in the news | `_data/press.yml` — newest first |
 | Mentorship | `_data/mentorship.yml` |
+| Books | `_data/books.yml` — set `for_everyone: true` for the ones you press into people's hands |
 | Blog post | `_posts/YYYY-MM-DD-title.md` |
 
 Paper entry shape:

@@ -494,6 +494,37 @@ a:hover { text-decoration: underline; }
   margin: -8px 0 20px;
 }
 
+/* Books */
+.book-list { list-style: none; margin: 0 0 28px; padding: 0; }
+.book {
+  padding: 5px 0;
+  line-height: 1.45;
+}
+.book-author,
+.book-year {
+  font-size: 0.85rem;
+  color: var(--faint);
+}
+.book-title {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+.book-title a { color: var(--text); }
+.book-title a:hover { color: var(--accent); text-decoration: none; }
+.book-note {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 4px 0 0;
+}
+.book-everyone {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--accent);
+}
+
 /* Footer */
 footer.site-footer {
   margin: 56px 0 40px;
