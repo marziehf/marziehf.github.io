@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 <h1>Books</h1>
-<p class="blog-kicker">Books [non-fiction] I keep coming back to in order of when they came to life.</p>
+<p class="blog-kicker">Nonfiction books I've read, loved, bought to read next, or some combination of the three.</p>
 
 <ul class="book-list">
 {% assign books = site.data.books.items | sort: "year" | reverse %}
