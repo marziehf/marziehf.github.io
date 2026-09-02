@@ -1,4 +1,5 @@
-- id: 2026.gem-main.0
+# Papers. Tag with one or more ids from topics.yml. selected: true appears on the Selected tab.
+- id: sanchez2026iolai
   title: 'The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning'
   authors:
   - Eduardo Sánchez
@@ -14,11 +15,14 @@
   - Julia Kreutzer
   year: 2026
   venue: arXiv
+  topics:
+    - multilingual
+    - evaluation
   selected: false
   links:
     pdf: https://arxiv.org/abs/2608.18011
     website: https://huggingface.co/spaces/iol-ai-challenge/iol-ai-2026
-- id: 2026.gem-main.0
+- id: mille2026gem
   title: 'The Fifth Workshop on Natural Language Generation, Evaluation, and Metrics (GEM)'
   authors:
   - Simon Mille
@@ -31,6 +35,8 @@
   - Gabriel Stanovsky
   year: 2026
   venue: ACL
+  topics:
+    - evaluation
   selected: false
   links:
     pdf: https://aclanthology.org/2026.gem-main.0.pdf
@@ -44,6 +50,8 @@
   - Marzieh Fadaee
   year: 2026
   venue: arXiv
+  topics:
+    - society
   selected: false
   links:
     pdf: https://arxiv.org/abs/2606.23633
@@ -59,6 +67,8 @@
   - Beyza Ermis
   year: 2026
   venue: arXiv
+  topics:
+    - training
   selected: false
   links:
     pdf: https://arxiv.org/abs/2606.24281
@@ -82,6 +92,9 @@
   - Thiago Lacerda
   year: 2026
   venue: IntelliSys
+  topics:
+    - evaluation
+    - society
   selected: false
   links:
     pdf: https://arxiv.org/abs/2602.24055
@@ -96,6 +109,8 @@
   - Beyza Ermis
   year: 2026
   venue: arXiv
+  topics:
+    - training
   selected: false
   links:
     pdf: https://arxiv.org/abs/2601.09473
@@ -111,6 +126,9 @@
   - Beyza Ermis
   year: 2026
   venue: arXiv
+  topics:
+    - training
+    - alignment
   selected: false
   links:
     pdf: https://arxiv.org/abs/2605.28561
@@ -125,6 +143,10 @@
   - Marzieh Fadaee
   year: 2026
   venue: arXiv
+  topics:
+    - multilingual
+    - alignment
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2606.13808
@@ -160,11 +182,15 @@
   - Marzieh Fadaee
   year: 2026
   venue: COLM
+  topics:
+    - multilingual
   selected: true
   links:
     pdf: https://arxiv.org/abs/2603.11510
     website: https://cohere.com/research/aya
     model: https://huggingface.co/collections/CohereLabs/tiny-aya
+    blog: https://cohere.com/blog/tiny-aya-in-the-wild
+    thread: https://x.com/Cohere_Labs/status/2023699450309275680
 - id: rajaee2026unlockingreasoningcapabilitymachine
   title: Unlocking Reasoning Capability on Machine Translation in Large Language Models
   authors:
@@ -176,6 +202,8 @@
   - Tom Kocmi
   year: 2026
   venue: arXiv
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2602.14763
@@ -188,6 +216,9 @@
   - Sebastian Ruder
   year: 2025
   venue: arXiv
+  topics:
+    - multilingual
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2504.16677
@@ -221,6 +252,8 @@
   - Sara Hooker
   year: 2025
   venue: arXiv
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2505.08751
@@ -487,6 +520,8 @@
   - Ivan Zhang
   year: 2025
   venue: WMT
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://aclanthology.org/2025.wmt-1.55/
@@ -500,6 +535,9 @@
   - Kocmi Tom
   year: 2025
   venue: arXiv
+  topics:
+    - evaluation
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2504.11829
@@ -530,6 +568,9 @@
   - Vilém Zouhar
   year: 2025
   venue: WMT
+  topics:
+    - evaluation
+    - multilingual
   selected: false
   links:
     pdf: https://aclanthology.org/2025.wmt-1.23/
@@ -546,6 +587,8 @@
   - Marco Del Tredici
   year: 2025
   venue: ACL
+  topics:
+    - evaluation
   selected: false
   links:
     pdf: https://arxiv.org/abs/2502.13791
@@ -613,7 +656,10 @@
   - Antoine Bosselut
   year: 2025
   venue: ICLR
-  selected: true
+  topics:
+    - evaluation
+    - multilingual
+  selected: false
   links:
     pdf: https://openreview.net/forum?id=k3gCieTXeY
     data: https://huggingface.co/datasets/CohereLabs/include-base-44
@@ -667,7 +713,10 @@
   - Marzieh Fadaee
   year: 2025
   venue: arXiv
-  selected: true
+  topics:
+    - evaluation
+    - multilingual
+  selected: false
   links:
     pdf: https://arxiv.org/abs/2504.07072
     website: https://cohere.com/research/Kaleidoscope
@@ -681,6 +730,8 @@
   - Julia Kreutzer
   year: 2025
   venue: arXiv
+  topics:
+    - training
   selected: false
   links:
     pdf: https://arxiv.org/abs/2510.00931
@@ -693,6 +744,8 @@
   - Cees G. M. Snoek
   year: 2025
   venue: arXiv
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2507.06137
@@ -714,6 +767,8 @@
   - Sara Hooker
   year: 2026
   venue: ACL
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2506.10766
@@ -739,6 +794,9 @@
   - Theodora Skeadas
   year: 2025
   venue: arXiv
+  topics:
+    - evaluation
+    - society
   selected: false
   links:
     pdf: https://arxiv.org/abs/2505.18893
@@ -748,6 +806,9 @@
   - United Nations Development Programme
   year: 2025
   venue: White paper
+  topics:
+    - society
+    - multilingual
   selected: false
   links:
     pdf: https://cdn.prod.website-files.com/66e31d90ea60e260f5ea025f/68546ed270a71196702c0081_Community%20Paper_Final%20for%20AI%20Hub%20Launch%20-%20REVISED%20VERSION%20(1).pdf
@@ -762,6 +823,9 @@
   - Marzieh Fadaee
   year: 2025
   venue: arXiv
+  topics:
+    - multilingual
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2510.19806
@@ -783,6 +847,8 @@
   - Sara Hooker
   year: 2025
   venue: arXiv
+  topics:
+    - evaluation
   selected: true
   links:
     pdf: https://arxiv.org/abs/2504.20879
@@ -809,6 +875,10 @@
   - Sara Hooker
   year: 2025
   venue: arXiv
+  topics:
+    - multilingual
+    - alignment
+    - society
   selected: false
   links:
     pdf: https://arxiv.org/abs/2505.21344
@@ -823,6 +893,9 @@
   - Julia Kreutzer
   year: 2025
   venue: arXiv
+  topics:
+    - multilingual
+    - alignment
   selected: false
   links:
     pdf: https://arxiv.org/abs/2505.24119
@@ -841,6 +914,8 @@
   - Sara Hooker
   year: 2025
   venue: ICLR
+  topics:
+    - data
   selected: false
   links:
     pdf: https://openreview.net/forum?id=zSfeN1uAcx
@@ -888,6 +963,9 @@
   - Thomas Wolf
   year: 2025
   venue: arXiv
+  topics:
+    - data
+    - society
   selected: false
   links:
     pdf: https://arxiv.org/abs/2501.08365
@@ -902,6 +980,8 @@
   - Marzieh Fadaee
   year: 2025
   venue: arXiv
+  topics:
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2509.20837
@@ -931,6 +1011,8 @@
   - Sara Hooker
   year: 2024
   venue: arXiv
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2405.15032
@@ -973,6 +1055,9 @@
   - Sara Hooker
   year: 2024
   venue: ACL
+  topics:
+    - multilingual
+    - data
   selected: true
   links:
     pdf: https://aclanthology.org/2024.acl-long.620/
@@ -1027,6 +1112,8 @@
   - Sara Hooker
   year: 2024
   venue: arXiv
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/abs/2412.04261
@@ -1054,7 +1141,9 @@
   - Sara Hooker
   year: 2024
   venue: ACL
-  selected: true
+  topics:
+    - multilingual
+  selected: false
   links:
     pdf: https://aclanthology.org/2024.acl-long.845/
     model: https://huggingface.co/CohereLabs/aya-101
@@ -1072,6 +1161,9 @@
   - Sara Hooker
   year: 2024
   venue: ACL
+  topics:
+    - training
+    - alignment
   selected: false
   links:
     pdf: https://arxiv.org/abs/2402.14740
@@ -1089,6 +1181,9 @@
   - Sara Hooker
   year: 2024
   venue: ACL
+  topics:
+    - training
+    - alignment
   selected: false
   links:
     pdf: https://aclanthology.org/2024.acl-long.662/
@@ -1101,6 +1196,8 @@
   - Marzieh Fadaee
   year: 2024
   venue: ICML workshop
+  topics:
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2409.11378
@@ -1115,6 +1212,8 @@
   - Marzieh Fadaee
   year: 2024
   venue: NeurIPS
+  topics:
+    - evaluation
   selected: false
   links:
     pdf: https://openreview.net/forum?id=Pc9LLjTL5f
@@ -1146,6 +1245,9 @@
   - Sara Hooker
   year: 2024
   venue: ACL
+  topics:
+    - evaluation
+    - multilingual
   selected: true
   links:
     pdf: https://arxiv.org/abs/2412.03304
@@ -1160,6 +1262,9 @@
   - Sara Hooker
   year: 2024
   venue: EMNLP
+  topics:
+    - training
+    - data
   selected: false
   links:
     pdf: https://aclanthology.org/2024.emnlp-main.521/
@@ -1178,6 +1283,10 @@
   - Marzieh Fadaee
   year: 2024
   venue: ACL
+  topics:
+    - evaluation
+    - multilingual
+    - alignment
   selected: false
   links:
     pdf: https://arxiv.org/abs/2410.15522
@@ -1194,6 +1303,9 @@
   - Sara Hooker
   year: 2024
   venue: Neurips Wokshop
+  topics:
+    - training
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2410.10801
@@ -1209,6 +1321,9 @@
   - Sara Hooker
   year: 2024
   venue: EMNLP
+  topics:
+    - multilingual
+    - alignment
   selected: false
   links:
     pdf: https://aclanthology.org/2024.emnlp-main.671/
@@ -1225,6 +1340,9 @@
   - Rodrigo Nogueira
   year: 2023
   venue: arXiv
+  topics:
+    - data
+    - retrieval
   selected: false
   links:
     pdf: https://arxiv.org/abs/2301.01820
@@ -1239,7 +1357,9 @@
   - Sara Hooker
   year: 2023
   venue: arXiv
-  selected: true
+  topics:
+    - data
+  selected: false
   links:
     pdf: https://arxiv.org/abs/2309.04564
 - id: boubdir2023prompts
@@ -1252,6 +1372,9 @@
   - Sara Hooker
   year: 2023
   venue: arXiv
+  topics:
+    - evaluation
+    - data
   selected: false
   links:
     pdf: https://arxiv.org/abs/2310.14424
@@ -1267,6 +1390,8 @@
   - Rodrigo Nogueira
   year: 2022
   venue: arXiv
+  topics:
+    - retrieval
   selected: false
   links:
     pdf: https://arxiv.org/abs/2212.06121
@@ -1279,6 +1404,9 @@
   - Rodrigo Nogueira
   year: 2022
   venue: SIGIR
+  topics:
+    - data
+    - retrieval
   selected: false
   links:
     pdf: https://arxiv.org/pdf/2202.05144
@@ -1294,6 +1422,8 @@
   - Rodrigo Nogueira
   year: 2022
   venue: arXiv
+  topics:
+    - retrieval
   selected: false
   links:
     pdf: https://arxiv.org/abs/2206.02873
@@ -1309,6 +1439,9 @@
   - Rodrigo Nogueira
   year: 2021
   venue: arXiv
+  topics:
+    - retrieval
+    - multilingual
   selected: false
   links:
     pdf: https://arxiv.org/pdf/2108.13897
@@ -1324,6 +1457,8 @@
   - Jakub Zavrel
   year: 2020
   venue: SDP
+  topics:
+    - retrieval
   selected: false
   links:
     pdf: https://www.aclweb.org/anthology/2020.sdp-1.23.pdf
@@ -1334,6 +1469,8 @@
   - Christof Monz
   year: 2020
   venue: WNGT
+  topics:
+    - evaluation
   selected: false
   links:
     pdf: https://www.aclweb.org/anthology/2020.ngt-1.10.pdf
@@ -1343,6 +1480,8 @@
   - Marzieh Fadaee
   year: 2020
   venue: PhD thesis
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: https://dare.uva.nl/search?identifier=422122ad-f9d6-4952-9012-fcde9a820773
@@ -1353,6 +1492,9 @@
   - Christof Monz
   year: 2018
   venue: EMNLP
+  topics:
+    - multilingual
+    - data
   selected: false
   links:
     pdf: http://aclweb.org/anthology/D18-1040.pdf
@@ -1364,6 +1506,9 @@
   - Christof Monz
   year: 2018
   venue: LREC
+  topics:
+    - multilingual
+    - data
   selected: false
   links:
     pdf: https://www.aclweb.org/anthology/L18-1148.pdf
@@ -1375,6 +1520,9 @@
   - Christof Monz
   year: 2017
   venue: ACL
+  topics:
+    - data
+    - multilingual
   selected: true
   links:
     pdf: http://aclweb.org/anthology/P17-2090.pdf
@@ -1386,6 +1534,8 @@
   - Christof Monz
   year: 2017
   venue: ACL
+  topics:
+    - multilingual
   selected: false
   links:
     pdf: http://aclweb.org/anthology/P17-2070.pdf

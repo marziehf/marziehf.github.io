@@ -16,16 +16,14 @@ author:
 socials:
   - name: Email
     url: mailto:marzieh@cohere.com
+  - name: Twitter
+    url: https://twitter.com/mziizm
   - name: Scholar
     url: https://scholar.google.com/citations?user=NZqs0toAAAAJ
   - name: Bluesky
     url: https://bsky.app/profile/mziizm.bsky.social
-  - name: Twitter
-    url: https://twitter.com/mziizm
   - name: LinkedIn
     url: https://www.linkedin.com/in/marzieh-fadaee-b7393370
-  - name: GitHub
-    url: https://github.com/marziehf
 
 permalink: /blog/:year/:title/
 markdown: kramdown

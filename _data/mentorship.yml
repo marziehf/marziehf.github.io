@@ -10,42 +10,77 @@ supervision:
   - year: "2026"
     name: Campbell Lund
     initials: CL
-    role: C4AI
-    topic: Now at Cohere Labs
+    role: C4AI scholar
+    topic: Current intern
+  - year: "2026"
+    name: Mehrnaz Mofakhami
+    initials: MM
+    role: C4AI scholar
+    topic: Current intern
+  - year: "2026"
+    name: Ananya Sahu
+    initials: AS
+    role: C4AI scholar
+    topic: Current intern
+  - year: "2026"
+    name: Conor Finlay
+    initials: CF
+    role: C4AI scholar
+    topic: Current intern
+  - year: "2026"
+    name: Joshua Kurien
+    initials: JK
+    role: C4AI scholar
+    topic: Current intern
   - year: "2025"
     name: Srishti Gureja
     initials: SG
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Spar
   - year: "2025"
     name: David Mora
     initials: DM
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Cohere  
   - year: "2025"
+    name: Diana Abagyan
+    initials: DA
+    role: C4AI scholar
+    topic: Now at Cohere
+  - year: "2025"
+    name: Sara Rajaee
+    initials: SR
+    role: Intern
+    topic: Now at UvA  
+  - year: "2024"
     name: Aakanksha
     initials: A
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Cohere
   - year: "2024"
     name: Luísa Shimabucoro
     initials: LS
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Stanford
+  - year: "2024"
+    name: Viraat Aryabumi
+    initials: VA
+    role: C4AI scholar
+    topic: Now at Cohere
   - year: "2023"
     name: Arash Ahmadian
     initials: AA
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Google
   - year: "2023"
     name: Meriem Boubdir
     initials: MB
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Nvidia
   - year: "2023"
     name: Max Marion
     initials: MM
-    role: C4AI
+    role: C4AI scholar
     topic: Now at Tacit labs
   - year: "2020"
     name: Sergi Castella Sapé

@@ -1,38 +1,45 @@
 {% assign paper = include.paper %}
-<article class="entry">
-  <p class="meta">
-    {{ paper.venue }}{% if paper.year %} {{ paper.year }}{% endif %}
-    {% if paper.award %} · <span class="award">{{ paper.award }}</span>{% endif %}
-  </p>
-  <h3>
-    {% if paper.links.pdf %}
-      <a href="{{ paper.links.pdf }}">{{ paper.title }}</a>
-    {% else %}
-      {{ paper.title }}
-    {% endif %}
-  </h3>
-  <p class="sub">
-    {% assign total = paper.authors.size %}
-    {% if total <= 8 %}
-      {% for a in paper.authors %}
-        {% if a == "Marzieh Fadaee" %}<strong>{{ a }}</strong>{% else %}{{ a }}{% endif %}{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    {% else %}
-      {% for a in paper.authors limit:5 %}
-        {% if a == "Marzieh Fadaee" %}<strong>{{ a }}</strong>{% else %}{{ a }}{% endif %},
-      {% endfor %}
-      {% assign shown = paper.authors | slice: 0, 5 %}
-      {% unless shown contains "Marzieh Fadaee" %}
-        <strong>Marzieh Fadaee</strong>,
-      {% endunless %}
-      et al.
-    {% endif %}
-  </p>
-  {% if paper.links %}
-    <p class="links">
-      {% for link in paper.links %}
-        <a href="{{ link[1] }}">{{ link[0] }}</a>
-      {% endfor %}
-    </p>
-  {% endif %}
+<article class="pub-card">
+<div class="pub-card__meta">
+<span class="pub-card__venue">{{ paper.venue }}{% if paper.year %} {{ paper.year }}{% endif %}</span>
+{% if paper.award %}<span class="pub-card__award">{{ paper.award }}</span>{% endif %}
+</div>
+<h3 class="pub-card__title">{{ paper.title }}</h3>
+<p class="pub-card__authors">
+{% assign total = paper.authors.size %}
+{% if total <= 8 %}
+{% for a in paper.authors %}
+{% if a == "Marzieh Fadaee" %}<strong>{{ a }}</strong>{% else %}{{ a }}{% endif %}{% unless forloop.last %}, {% endunless %}
+{% endfor %}
+{% else %}
+{% for a in paper.authors limit:5 %}
+{% if a == "Marzieh Fadaee" %}<strong>{{ a }}</strong>{% else %}{{ a }}{% endif %},
+{% endfor %}
+{% assign shown = paper.authors | slice: 0, 5 %}
+{% unless shown contains "Marzieh Fadaee" %}
+<strong>Marzieh Fadaee</strong>,
+{% endunless %}
+et al.
+{% endif %}
+</p>
+{% if paper.tldr %}<p class="pub-card__tldr">{{ paper.tldr }}</p>{% endif %}
+{% if paper.links %}
+<div class="pub-card__links">
+{% for link in paper.links %}
+{% assign key = link[0] %}
+{% case key %}
+{% when "pdf" %}{% assign label = "Paper" %}
+{% when "website" %}{% assign label = "Website" %}
+{% when "blog" %}{% assign label = "Blog" %}
+{% when "code" %}{% assign label = "Code" %}
+{% when "model" %}{% assign label = "Model" %}
+{% when "data" %}{% assign label = "Data" %}
+{% when "poster" %}{% assign label = "Poster" %}
+{% when "video" %}{% assign label = "Video" %}
+{% else %}{% assign label = key | capitalize %}
+{% endcase %}
+<a class="pub-link" href="{{ link[1] }}">{{ label }}</a>
+{% endfor %}
+</div>
+{% endif %}
 </article>

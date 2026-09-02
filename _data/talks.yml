@@ -11,15 +11,15 @@ speaker_bio: Marzieh Fadaee is the Head of Cohere Labs, where she leads research
 items:
 - year: 2026
   upcoming: true
-  role: Invited talk and panel
-  venue: United Nations General Assembly
-  location: New York
-  when: September 2026
-- year: 2026
-  upcoming: true
   role: Invited talk
   venue: Global forum on AI and social sciences, London School of Economics
   location: London
+  when: September 2026
+- year: 2026
+  upcoming: true
+  role: Invited talk and panel
+  venue: United Nations General Assembly
+  location: New York
   when: September 2026
 - year: 2026
   upcoming: true
@@ -31,7 +31,7 @@ items:
 - year: 2026
   upcoming: false
   role: Invited talk
-  venue: Apple
+  venue: Workshop on Language Interaction, Apple
   title: "From Peaks to Distributions: What Multilingual AI Reveals About Evaluation"
   location: Cupertino, California
   when: August 2026

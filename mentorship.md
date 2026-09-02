@@ -22,7 +22,7 @@ wide: true
 {% endfor %}
 </div>
 
-<h2 class="section-label">Programs</h2>
+<h2 class="section-label">Mentorship</h2>
 <ul class="quiet-list">
 {% for p in site.data.mentorship.programs %}
 <li>{{ p }}</li>
