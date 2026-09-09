@@ -15,6 +15,7 @@ items:
   venue: Global forum on AI and social sciences, London School of Economics
   title: "The New Division of Labor: What Are We Building AI to Do?"
   location: London
+  url: https://www.lse.ac.uk/global-ai-forum/programme
   when: September 2026
 - year: 2026
   upcoming: true
@@ -22,6 +23,7 @@ items:
   venue: United Nations General Assembly
   title: "Open Source AI"
   location: New York
+  url: https://www.un.org/en/high-level-week-2026
   when: September 2026
 - year: 2026
   upcoming: false
@@ -29,6 +31,7 @@ items:
   venue: The Intelligent Systems Conference
   title: "CIRCLE: A Framework for Evaluating AI from a Real-World Lens"
   location: Amsterdam
+  url: https://saiconference.com/IntelliSys
   when: September 2026
 - year: 2026
   upcoming: false
@@ -96,12 +99,14 @@ items:
   venue: RAISE center at UW
   title: How Evaluation Directs AI Progress
   location: Online
+  url: https://raise.uw.edu/talks.html
   when: November 2025
 - year: 2025
   upcoming: false
   role: Speaker
   venue: 10th INESC TEC Autumn Forum
   title: Building Human-Centric Models from Global Voices
+  url: https://www.inesctec.pt/en/events/inesc-tec-autumn-forum
   location: Porto
   when: November 2025
 - year: 2025
@@ -124,6 +129,7 @@ items:
   venue: World Summit AI
   title: 'Frontier models: What’s next for the most advanced AI systems?'
   location: Amsterdam
+  url: http://worldsummit.ai/
   when: October 2025
 - year: 2025
   upcoming: false
@@ -136,7 +142,9 @@ items:
   upcoming: false
   role: Talk
   venue: MSR Africa
+  title: "Building Better Language Models Through Global Understanding"
   location: Online
+  url: https://www.microsoft.com/en-us/research/video/building-better-language-models-through-global-understanding/
   when: July 2025
 - year: 2025
   upcoming: false
@@ -198,6 +206,7 @@ items:
   venue: Open Institute of Technology
   title: Building the Next Generation of Multilingual Language Models
   location: Amsterdam
+  url: http://opit.com/
   when: March 2025
 - year: 2024
   upcoming: false
